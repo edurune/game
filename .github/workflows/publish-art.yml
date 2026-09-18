@@ -37,7 +37,9 @@ jobs:
 
       - name: Read package version
         id: package
-        run: echo "version=$(node --print \"require('./art/package.json').version\")" >> "$GITHUB_OUTPUT"
+        run: |
+          version="$(node --print "require('./art/package.json').version")"
+          echo "version=${version}" >> "$GITHUB_OUTPUT"
 
       - name: Publish package
         run: npm publish ./art
