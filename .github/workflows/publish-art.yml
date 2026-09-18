@@ -1,8 +1,6 @@
 name: Publish @edurune/art
 
 on:
-  release:
-    types: [published]
   workflow_dispatch:
 
 concurrency:
@@ -13,7 +11,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       packages: write
     steps:
       - name: Check out repository
@@ -37,7 +35,17 @@ jobs:
       - name: Typecheck package
         run: bun run --cwd art typecheck
 
+      - name: Read package version
+        id: package
+        run: echo "version=$(node --print \"require('./art/package.json').version\")" >> "$GITHUB_OUTPUT"
+
       - name: Publish package
         run: npm publish ./art
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VERSION: ${{ steps.package.outputs.version }}
+        run: gh release create "v${VERSION}" --target "$GITHUB_SHA" --title "@edurune/art v${VERSION}" --generate-notes
