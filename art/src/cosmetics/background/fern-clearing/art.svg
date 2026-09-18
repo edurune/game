@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<defs><clipPath id="frame"><rect x="20" y="20" width="280" height="280"/></clipPath></defs>
+<g data-plane="background" data-anchor="root" data-fit="scene" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#frame)">
+<rect x="20" y="20" width="280" height="280" fill="#f4eddc" stroke="none"/><path d="M18 232 Q160 211 302 232 V302 H18Z" fill="#d5dfb5"/>
+<path d="M54 273 Q42 202 65 151 Q92 207 54 273Z M50 239 Q25 220 29 192 Q57 198 61 229 M56 229 Q76 197 98 204 Q96 231 59 249 M258 274 Q236 218 251 173 Q277 213 258 274Z M257 234 Q272 208 291 213 Q293 237 262 250 M252 247 Q225 240 227 219 Q250 221 252 247Z"/>
+<path d="M41 281 Q45 263 71 265 Q89 267 91 281Z M233 283 Q239 265 267 270 Q282 272 286 283Z" fill="#9b9fbc"/>
+</g></g></svg>

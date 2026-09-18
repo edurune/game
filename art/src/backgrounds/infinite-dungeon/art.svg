@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" data-rig="battle-scene-v1">
+  <defs>
+    <clipPath id="canvas"><path d="M0 0H960V540H0Z"/></clipPath>
+    <symbol id="cave-bat" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <g fill="#747da7"><path d="M177 182Q234 120 280 146L271 197Q247 177 234 208Q218 196 202 223L175 218Z M141 181Q84 118 39 146L48 197Q71 177 85 208Q101 196 117 223L146 218Z"/><path d="M46 147Q106 165 136 200" fill="none"/></g>
+        <g fill="#9b9fbc"><path d="M116 178L105 130L137 150Q151 143 166 150L198 128L185 177Q205 208 188 236Q167 252 141 242Q109 232 116 178Z"/>
+          <path d="M132 232L123 257L147 248 M170 244L188 258L182 234" fill="#747da7"/>
+          <g fill="#303047" stroke="none"><ellipse cx="133" cy="191" rx="5" ry="7"/><ellipse cx="165" cy="189" rx="5" ry="7"/></g>
+          <path d="M138 216L144 226L150 217L157 225L162 213" fill="#f4eddc"/>
+        </g>
+      </g>
+    </symbol>
+    <symbol id="rockling" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M105 207L78 214L67 248L86 259L116 235 M202 208L227 216L241 250L222 261L196 236 M130 255L117 280H149L155 254 M177 254L183 280H218L203 252Z" fill="#758d80"/>
+        <path d="M107 157L149 140L194 155L217 199L203 249L166 266L118 248L98 205Z" fill="#9bb9a2"/>
+        <path d="M107 157L147 180L194 155 M147 180L138 224L166 266 M138 224L98 205" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="125" cy="199" rx="5" ry="7"/><ellipse cx="167" cy="201" rx="5" ry="7"/></g>
+        <path d="M134 226H155 M136 151L139 132L158 139L168 127L180 151" fill="#d5dfb5"/>
+      </g>
+    </symbol>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <g data-plane="backdrop" data-anchor="root">
+      <path d="M0 0H960V540H0Z" fill="#747da7"/>
+      <path d="M0 0H960V116L905 93L843 138L767 110L729 142L652 97L580 118L498 84L439 126L355 96L301 139L245 114L165 147L92 109L0 160Z" fill="#515b7c"/>
+      <path d="M71 110L95 197L116 133 M778 108L801 198L822 126 M897 106L914 164L938 117" fill="#515b7c"/>
+      <g fill="#9b9fbc" stroke="#303047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M259 411V176Q259 31 481 31Q701 31 701 176V411H648V186Q648 79 481 79Q313 79 313 186V411Z"/>
+        <path d="M265 125L317 142 M292 78L338 112 M347 48L373 89 M410 33L423 80 M481 31V79 M551 34L539 82 M617 48L592 94 M671 81L626 118 M698 132L645 148 M259 216H313 M259 286H313 M259 358H313 M649 221H701 M649 293H701 M649 363H701" fill="none"/>
+        <path d="M429 31L440 11H510L523 31L511 76H441Z" fill="#c5cede"/>
+        <path d="M480 26L494 43L480 61L466 43Z" fill="#f2d99b"/>
+      </g>
+      <path d="M313 419V186Q313 79 481 79Q648 79 648 186V419Z" fill="#303047"/>
+      <path d="M363 368V209Q363 121 482 121Q600 121 600 209V368H571V213Q571 153 482 153Q393 153 393 213V368Z" fill="#747da7"/>
+      <path d="M417 325V229Q417 181 482 181Q547 181 547 229V325H529V232Q529 202 482 202Q435 202 435 232V325Z" fill="#515b7c"/>
+      <path d="M457 287V247Q457 224 482 224Q507 224 507 247V287Z" fill="#9b9fbc"/>
+      <path d="M468 280V250Q468 238 482 238Q496 238 496 250V280Z" fill="#303047"/>
+      <g fill="#515b7c" stroke="#303047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M37 363V141H16V115H135V141H115V375Z M794 405V209H772V180H893V209H872V418Z"/>
+        <path d="M16 115L30 76L62 81L83 65L121 87L135 115 M772 180L783 144L820 133L849 150L883 142L893 180" fill="#9b9fbc"/>
+        <path d="M37 209H115 M37 292H115 M76 145V205 M72 295V355 M794 285H872 M828 211V281 M838 290V382" fill="none"/>
+      </g>
+    </g>
+    <g data-plane="terrain" data-anchor="root" stroke="#303047" stroke-width="4" stroke-linejoin="round">
+      <path d="M0 361L114 346L189 372L305 355L340 404L626 388L700 365L803 381L887 360L960 388V540H0Z" fill="#9b9fbc" stroke="none"/>
+      <!-- Broad landings lead into smaller ones, suggesting an unending descent. -->
+      <path d="M312 465H689L630 397H555L579 363H436L414 330H522L508 308H470L467 289H497L491 277H474" fill="none" stroke="#c5cede" stroke-width="32"/>
+      <path d="M337 425H672V452H337Z M367 398H647V425H367Z" fill="#747da7"/>
+      <path d="M394 377H625V398H367Z M421 357H602V377H394Z" fill="#c5cede"/>
+      <path d="M421 357L403 339H564L582 357Z M403 339L390 323H543L564 339Z" fill="#9b9fbc"/>
+      <path d="M414 310H526L543 323H390Z M437 298H514L526 310H414Z M455 287H503L514 298H437Z M472 278H494L503 287H455Z" fill="#c5cede" stroke-width="3"/>
+      <path d="M0 466L134 431L258 449L320 423L380 452H671L735 435L824 453L960 422V540H0Z" fill="#c2cbe4"/>
+      <path d="M257 488L284 458H717L749 488L780 520H216Z" fill="#dfe6f4"/>
+      <path d="M318 481H388 M647 506L665 487H693" fill="none"/>
+      <path d="M57 422L64 394L101 390L118 420Z M728 435L742 405L775 413L794 438Z" fill="#747da7"/>
+    </g>
+    <g data-plane="foreground" data-anchor="root">
+      <use href="#cave-bat" x="82" y="-26" width="269" height="269" transform="rotate(-14 217 143)"/>
+      <use href="#cave-bat" x="664" y="-54" width="224" height="224" transform="rotate(12 776 98)"/>
+      <use href="#rockling" x="671" y="201" width="293" height="293"/>
+      <!-- A rear-view traveler at the threshold gives the dungeon its scale. -->
+      <g stroke="#303047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+        <g fill="#f2d99b">
+          <path d="M229 254Q213 237 229 219Q227 234 243 225Q249 246 237 254Z"/>
+          <path d="M727 288Q712 273 729 253Q728 266 741 265Q747 283 737 288Z"/>
+        </g>
+        <path d="M223 254H245L241 271H227Z M722 288H744L740 305H726Z" fill="#bd8b69"/>
+        <path d="M234 271V291 M733 305V325" fill="none"/>
+        <g transform="translate(145 205)">
+          <path d="M72 192L65 254L57 267H93L106 222L123 267H162L147 251L143 192Z" fill="#e1bc8b"/>
+          <path d="M56 256H92V274H48Q44 266 56 256Z M125 258H151Q168 260 168 274H124Z" fill="#f4eddc"/>
+          <path d="M62 137L45 193L31 207Q27 219 37 224Q48 229 57 217L84 167Z" fill="#bd8b69"/>
+          <path d="M140 135L157 183L177 167L190 183L171 205Q154 216 143 200L124 167Z" fill="#bd8b69"/>
+          <path d="M83 113L67 118L53 149L74 163L68 205H148L144 162L160 150L145 120L129 114Z" fill="#9bb9a2"/>
+          <path d="M88 99V122L113 134L131 118L128 99Z" fill="#bd8b69"/>
+          <path d="M65 60Q65 19 108 20Q151 20 151 60V74Q154 105 116 113Q77 114 67 89Q53 89 52 77Q50 64 65 63Z" fill="#bd8b69"/>
+          <path d="M59 70L56 41L65 20L64 8L84 13L97 0L111 10L130 3L139 18L155 22L158 47L148 79L131 85L114 77L98 86L81 77L68 83Z" fill="#514543"/>
+          <path d="M76 40L86 35M104 30L115 26" fill="none"/>
+          <path d="M82 124L73 166 M131 124L141 166" fill="none" stroke-width="8"/>
+          <path d="M90 137H120Q136 137 136 153V201H75V153Q75 137 90 137Z" fill="#e1bc8b"/>
+          <path d="M75 155Q103 171 136 155V143H75Z" fill="#bd8b69"/>
+          <path d="M103 154V174H114V154Z M87 184H125V204H87Z" fill="#f2d99b"/>
+          <path d="M174 177V156Q174 145 183 147L190 158L193 178Q191 190 181 190Z" fill="#bd8b69"/>
+          <path d="M189 153V129" fill="none"/>
+          <path d="M177 113Q174 98 190 88Q186 101 200 105Q207 118 194 128H184Z" fill="#f2d99b"/>
+          <path d="M178 128H201L196 141H183Z" fill="#bd8b69"/>
+        </g>
+        <g fill="#9b9fbc">
+          <path d="M15 452L22 374L49 344L73 390L65 456Z M59 455L68 414L89 397L108 433L98 461Z"/>
+          <path d="M876 457L878 386L907 347L933 400L921 461Z M841 473L842 427L862 406L886 448L876 477Z"/>
+        </g>
+        <path d="M22 374L46 402L49 344 M46 402L42 450 M878 386L904 411L907 347 M904 411V454" fill="none"/>
+        <g fill="#f2d99b" stroke="none">
+          <path d="M348 225L352 216L356 225L366 229L356 233L352 242L348 233L339 229Z"/>
+          <path d="M604 284L608 275L612 284L621 288L612 292L608 301L604 292L595 288Z"/>
+        </g>
+      </g>
+      <path d="M0 498L41 484L99 503L145 496L179 516L233 513L260 532L315 530L339 540H0Z M960 488L918 491L883 515L833 507L798 526L739 525L719 540H960Z" fill="#dfe6f4"/>
+    </g>
+  </g>
+</svg>

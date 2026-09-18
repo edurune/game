@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <defs>
+    <clipPath id="kilt-cloth"><path d="M129 213 H191 L200 251 Q160 258 120 251Z"/></clipPath>
+  </defs>
+  <g data-plane="sleeve-far" data-anchor="shoulder-far" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133 159 Q117 158 111 174 L99 212 L119 220 L140 180Z"/>
+    <path d="M103 203 L123 211" fill="none"/>
+  </g>
+  <g data-plane="shoe-far" data-anchor="foot-far" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M130 252 H154 V276 H130Z"/>
+    <path d="M130 258 H154 M136 262 V271 M148 262 V271" fill="none"/>
+    <path d="M130 273 H155 V282 H115 Q118 274 130 273Z" fill="#bd8b69"/>
+  </g>
+  <g data-plane="shoe-near" data-anchor="foot-near" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M168 252 H192 V276 H168Z"/>
+    <path d="M168 258 H192 M174 262 V271 M186 262 V271" fill="none"/>
+    <path d="M167 273 H193 Q206 274 209 282 H167Z" fill="#bd8b69"/>
+  </g>
+  <g data-plane="top-front" data-anchor="torso" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M136 159 Q160 176 184 159 L195 178 L191 223 H129 L125 178Z"/>
+    <path d="M146 164 L160 181 L174 164 M160 181 V206 M154 185 H166 M155 194 H165" fill="none"/>
+    <path d="M129 213 H191 L200 251 Q160 258 120 251Z" fill="#9bb9a2" stroke="none"/>
+    <g clip-path="url(#kilt-cloth)" stroke="none">
+      <path d="M130 213 H139 V258 H130Z M168 213 H177 V258 H168Z M190 213 H199 V258 H190Z M120 230 H200 V239 H120Z" fill="#758d80"/>
+      <path d="M144 213 H148 V258 H144Z M181 213 H185 V258 H181Z M120 222 H200 V226 H120Z M120 245 H200 V249 H120Z" fill="#f2d99b"/>
+    </g>
+    <path d="M129 213 H191 L200 251 Q160 258 120 251Z M130 224 L125 250 M138 224 L135 252 M188 224 L194 250" fill="none"/>
+    <path d="M128 212 H192 V222 H128Z" fill="#bd8b69"/>
+    <rect x="153" y="212" width="14" height="10" rx="2"/>
+    <path d="M149 226 Q160 221 171 226 L174 239 Q160 250 146 239Z" fill="#bd8b69"/>
+    <path d="M149 226 Q160 234 171 226 M153 237 V241 M160 238 V244 M167 237 V241" fill="none"/>
+  </g>
+  <g data-plane="sleeve-near" data-anchor="shoulder-near" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187 159 Q203 158 209 174 L221 212 L201 220 L180 180Z"/>
+    <path d="M197 211 L217 203" fill="none"/>
+  </g>
+</svg>

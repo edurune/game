@@ -1,0 +1,2539 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-09-16 13:49+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: vi\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: effects/impact/impact-hit/metadata.ts:7
+msgid "A brief burst at the point of impact."
+msgstr "Tia lóe ngắn tại điểm va chạm."
+
+#: cosmetics/hat/acorn-shell-cap/metadata.ts:6
+msgid "Acorn cap"
+msgstr "Mũ hạt sồi"
+
+#: cosmetics/pet/acorn-guardian/metadata.ts:6
+msgid "Acorn guardian"
+msgstr "Vệ sĩ hạt sồi"
+
+#: cosmetics/pet/acorn-squirrel/metadata.ts:6
+msgid "Acorn squirrel"
+msgstr "Sóc hạt sồi"
+
+#: enemies/acornling/metadata.ts:7
+msgid "Acornling"
+msgstr "Nhóc hạt sồi"
+
+#: skills/skill-aegis/metadata.ts:7
+msgid "Aegis"
+msgstr "Khiên bảo hộ"
+
+#: cosmetics/full_body/alpine-knit-set/metadata.ts:6
+msgid "Alpine knit set"
+msgstr "Bộ len miền núi"
+
+#: equipments/charm/charm-amber-bead/metadata.ts:6
+msgid "Amber bead"
+msgstr "Hạt hổ phách"
+
+#: enemies/stone-sentinel/metadata.ts:7
+msgid "Ancient stone watcher that never leaves its post."
+msgstr "Kẻ canh gác bằng đá cổ xưa không bao giờ rời vị trí."
+
+#: characters/hair/angled-pixie/metadata.ts:6
+msgid "Angled pixie"
+msgstr "Tóc pixie mái lệch"
+
+#: equipments/charm/charm-antidote-vial/metadata.ts:6
+msgid "Antidote vial"
+msgstr "Lọ giải độc"
+
+#: cosmetics/full_body/ao-dai/metadata.ts:8
+msgid "Áo dài"
+msgstr "Áo dài"
+
+#: equipments/weapon/weapon-apprentice-wand/metadata.ts:6
+msgid "Apprentice wand"
+msgstr "Đũa phép tập sự"
+
+#: cosmetics/bottom/apron-pocket-skirt/metadata.ts:6
+msgid "Apron pocket skirt"
+msgstr "Chân váy túi tạp dề"
+
+#: equipments/weapon/weapon-orb-focus/metadata.ts:6
+msgid "Arcane orb"
+msgstr "Pháp cầu"
+
+#: cosmetics/full_body/archive-scholar-set/metadata.ts:6
+msgid "Archive scholar"
+msgstr "Học giả thư khố"
+
+#: enemies/ash-hound/metadata.ts:6
+msgid "Ash hound"
+msgstr "Chó săn tro"
+
+#: icons/combat/action/icon-action-attack/metadata.ts:8
+msgid "Attack"
+msgstr "Tấn công"
+
+#: cosmetics/background/study-attic/metadata.ts:6
+msgid "Attic study"
+msgstr "Góc học trên gác mái"
+
+#: cosmetics/accessory/aurora-ribbon-cape/metadata.ts:6
+msgid "Aurora cape"
+msgstr "Áo choàng cực quang"
+
+#: cosmetics/pet/aurora-kirin/metadata.ts:6
+msgid "Aurora kirin"
+msgstr "Kỳ lân cực quang"
+
+#: cosmetics/top/aurora-layered-coat/metadata.ts:6
+msgid "Aurora layered coat"
+msgstr "Áo khoác nhiều lớp cực quang"
+
+#: cosmetics/bottom/aurora-ribbon-skirt/metadata.ts:6
+msgid "Aurora ribbon skirt"
+msgstr "Chân váy ruy băng cực quang"
+
+#: cosmetics/background/aurora-ridge/metadata.ts:6
+msgid "Aurora ridge"
+msgstr "Sườn núi cực quang"
+
+#: cosmetics/hat/aurora-wing-circlet/metadata.ts:6
+msgid "Aurora wing circlet"
+msgstr "Vòng đầu cánh cực quang"
+
+#: cosmetics/background/autumn-lane/metadata.ts:6
+msgid "Autumn lane"
+msgstr "Lối nhỏ mùa thu"
+
+#: skills/skill-awaken/metadata.ts:7
+msgid "Awaken"
+msgstr "Thức tỉnh"
+
+#: cosmetics/full_body/bakery-apron-set/metadata.ts:6
+msgid "Baker’s apron set"
+msgstr "Bộ tạp dề thợ bánh"
+
+#: cosmetics/background/bakery-kitchen/metadata.ts:6
+msgid "Bakery kitchen"
+msgstr "Gian bếp tiệm bánh"
+
+#: cosmetics/pet/barn-owl/metadata.ts:6
+msgid "Barn owl"
+msgstr "Cú lợn"
+
+#: skills/skill-barrage/metadata.ts:7
+msgid "Barrage"
+msgstr "Mưa đòn"
+
+#: equipments/weapon/weapon-battle-axe/metadata.ts:6
+msgid "Battle axe"
+msgstr "Rìu chiến"
+
+#: cosmetics/pet/beach-crab/metadata.ts:6
+msgid "Beach crab"
+msgstr "Cua biển"
+
+#: cosmetics/hat/bear-ear-beanie/metadata.ts:6
+msgid "Bear-ear beanie"
+msgstr "Mũ len tai gấu"
+
+#: cosmetics/accessory/bedroll-travel-pack/metadata.ts:6
+msgid "Bedroll pack"
+msgstr "Ba lô cuộn chăn"
+
+#: cosmetics/pet/bell-calf/metadata.ts:6
+msgid "Bell calf"
+msgstr "Bê đeo chuông"
+
+#: cosmetics/accessory/lantern-belt-hook/metadata.ts:6
+msgid "Belt lantern"
+msgstr "Đèn lồng đeo hông"
+
+#: cosmetics/accessory/buckle-belt-pouch/metadata.ts:6
+msgid "Belt pouch"
+msgstr "Túi đeo thắt lưng"
+
+#: cosmetics/background/birch-grove/metadata.ts:6
+msgid "Birch grove"
+msgstr "Rừng bạch dương"
+
+#: skills/skill-bite/metadata.ts:7
+msgid "Bite"
+msgstr "Cắn"
+
+#: cosmetics/pet/blue-wing-budgie/metadata.ts:6
+msgid "Blue-wing budgie"
+msgstr "Vẹt yến phụng cánh xanh"
+
+#: characters/hair/curved-bob/metadata.ts:6
+msgid "Bob"
+msgstr "Tóc bob"
+
+#: cosmetics/top/soft-bomber-jacket/metadata.ts:6
+msgid "Bomber jacket"
+msgstr "Áo khoác bomber"
+
+#: cosmetics/accessory/book-locket/metadata.ts:6
+msgid "Book locket"
+msgstr "Mặt dây chuyền sách"
+
+#: equipments/weapon/weapon-boomerang/metadata.ts:6
+msgid "Boomerang"
+msgstr "Boomerang"
+
+#: enemies/moss-slime/metadata.ts:7
+msgid "Bouncy blob coated in soft moss."
+msgstr "Khối tròn nảy tưng tưng phủ lớp rêu mềm."
+
+#: skills/skill-brace/metadata.ts:7
+msgid "Brace"
+msgstr "Thủ thế"
+
+#: characters/hair/loop-braid/metadata.ts:6
+msgid "Braids"
+msgstr "Tóc tết"
+
+#: cosmetics/pet/branch-koala/metadata.ts:6
+msgid "Branch koala"
+msgstr "Gấu túi ôm cành"
+
+#: cosmetics/top/brass-breastplate/metadata.ts:6
+msgid "Brass breastplate"
+msgstr "Giáp ngực đồng"
+
+#: equipments/weapon/weapon-brass-knuckles/metadata.ts:6
+msgid "Brass knuckles"
+msgstr "Tay đấm đồng"
+
+#: cosmetics/bottom/brass-plate-tassets/metadata.ts:6
+msgid "Brass tassets"
+msgstr "Giáp hông đồng"
+
+#: cosmetics/full_body/brass-tinker-set/metadata.ts:6
+msgid "Brass tinkerer"
+msgstr "Thợ máy đồng"
+
+#: cosmetics/shoes/brass-toe-greaves/metadata.ts:6
+msgid "Brass-toe greaves"
+msgstr "Ủng giáp mũi đồng"
+
+#: cosmetics/background/brick-courtyard/metadata.ts:6
+msgid "Brick courtyard"
+msgstr "Sân gạch"
+
+#: enemies/reef-serpent/metadata.ts:7
+msgid "Bright sea serpent weaving through coral reefs."
+msgstr "Rắn biển rực rỡ luồn lách qua các rạn san hô."
+
+#: cosmetics/accessory/paintbrush-roll/metadata.ts:6
+msgid "Brush roll"
+msgstr "Túi cuộn cọ vẽ"
+
+#: cosmetics/shoes/buckle-sandals/metadata.ts:6
+msgid "Buckle sandals"
+msgstr "Xăng đan khóa cài"
+
+#: equipments/armor/armor-buckler/metadata.ts:7
+msgid "Buckler"
+msgstr "Khiên tròn"
+
+#: skills/skill-bulwark/metadata.ts:7
+msgid "Bulwark"
+msgstr "Thành trì"
+
+#: characters/hair/tucked-bun/metadata.ts:6
+msgid "Bun"
+msgstr "Tóc búi"
+
+#: cosmetics/top/button-front-cardigan/metadata.ts:6
+msgid "Button cardigan"
+msgstr "Áo cardigan cài khuy"
+
+#: cosmetics/top/button-knit-vest/metadata.ts:6
+msgid "Button knit vest"
+msgstr "Áo gile len cài khuy"
+
+#: cosmetics/pet/button-nose-pug/metadata.ts:6
+msgid "Button-nose pug"
+msgstr "Chó pug mũi nút"
+
+#: characters/hair/close-buzz/metadata.ts:6
+msgid "Buzz cut"
+msgstr "Tóc húi cua"
+
+#: cosmetics/top/cable-knit-pullover/metadata.ts:6
+msgid "Cable-knit pullover"
+msgstr "Áo len vặn thừng"
+
+#: enemies/cactus-sentry/metadata.ts:6
+msgid "Cactus sentry"
+msgstr "Lính gác xương rồng"
+
+#: regions/ember-caldera/metadata.ts:6
+msgid "Caldera"
+msgstr "Lòng chảo núi lửa"
+
+#: cosmetics/accessory/small-camera-bag/metadata.ts:6
+msgid "Camera bag"
+msgstr "Túi máy ảnh"
+
+#: cosmetics/top/camp-collar-shirt/metadata.ts:6
+msgid "Camp collar shirt"
+msgstr "Áo sơ mi cổ mở"
+
+#: cosmetics/hat/canvas-five-panel/metadata.ts:6
+msgid "Canvas cap"
+msgstr "Mũ lưỡi trai vải"
+
+#: cosmetics/bottom/canvas-cargo-shorts/metadata.ts:6
+msgid "Canvas cargo shorts"
+msgstr "Quần soóc vải túi hộp"
+
+#: cosmetics/accessory/canvas-messenger-bag/metadata.ts:6
+msgid "Canvas satchel"
+msgstr "Túi vải đeo chéo"
+
+#: cosmetics/shoes/canvas-lace-shoes/metadata.ts:8
+msgid "Canvas shoes"
+msgstr "Giày vải"
+
+#: enemies/capling/metadata.ts:6
+msgid "Capling"
+msgstr "Nấm con"
+
+#: enemies/cave-bat/metadata.ts:6
+msgid "Cave bat"
+msgstr "Dơi hang"
+
+#: characters/hair/center-part/metadata.ts:6
+msgid "Center-part curtains"
+msgstr "Tóc mái rẽ ngôi giữa"
+
+#: equipments/armor/armor-chainmail/metadata.ts:6
+msgid "Chainmail"
+msgstr "Áo giáp xích"
+
+#: cosmetics/bottom/check-lounge-pants/metadata.ts:6
+msgid "Checked lounge pants"
+msgstr "Quần mặc nhà ca rô"
+
+#: cosmetics/hat/checkered-newsboy/metadata.ts:6
+msgid "Checked newsboy cap"
+msgstr "Mũ nồi ca rô"
+
+#: cosmetics/hat/stitched-chef-toque/metadata.ts:6
+msgid "Chef’s hat"
+msgstr "Mũ đầu bếp"
+
+#: cosmetics/top/chefs-button-jacket/metadata.ts:6
+msgid "Chef’s jacket"
+msgstr "Áo đầu bếp"
+
+#: cosmetics/pet/chestnut-puppy/metadata.ts:6
+msgid "Chestnut puppy"
+msgstr "Cún nâu hạt dẻ"
+
+#: cosmetics/bottom/straight-leg-chinos/metadata.ts:8
+msgid "Chinos"
+msgstr "Quần chinos"
+
+#: cosmetics/pet/round-guinea-pig/metadata.ts:6
+msgid "Chubby guinea pig"
+msgstr "Chuột lang mũm mĩm"
+
+#: cosmetics/pet/clay-piglet/metadata.ts:6
+msgid "Clay piglet"
+msgstr "Heo con đất nung"
+
+#: cosmetics/top/clay-v-neck-tee/metadata.ts:6
+msgid "Clay V-neck tee"
+msgstr "Áo thun cổ tim màu đất"
+
+#: cosmetics/pet/brass-clockwork-bird/metadata.ts:6
+msgid "Clockwork bird"
+msgstr "Chim máy lên dây cót"
+
+#: cosmetics/background/clockwork-workshop/metadata.ts:6
+msgid "Clockwork workshop"
+msgstr "Xưởng bánh răng"
+
+#: regions/cloud-court/metadata.ts:6
+msgid "Cloud court"
+msgstr "Sân mây"
+
+#: cosmetics/top/hooded-cloud-sweater/metadata.ts:6
+msgid "Cloud hoodie"
+msgstr "Áo hoodie mây"
+
+#: cosmetics/full_body/cloud-pilot-set/metadata.ts:6
+msgid "Cloud pilot"
+msgstr "Phi công trên mây"
+
+#: cosmetics/hat/cloud-puff-cap/metadata.ts:6
+msgid "Cloud puff cap"
+msgstr "Mũ mây bồng"
+
+#: cosmetics/bottom/cloud-puff-pants/metadata.ts:6
+msgid "Cloud puff pants"
+msgstr "Quần mây bồng"
+
+#: cosmetics/pet/cloud-sheep/metadata.ts:6
+msgid "Cloud sheep"
+msgstr "Cừu mây"
+
+#: cosmetics/background/cloud-terrace/metadata.ts:6
+msgid "Cloud terrace"
+msgstr "Sân thượng trên mây"
+
+#: enemies/cloudling/metadata.ts:6
+msgid "Cloudling"
+msgstr "Mây con"
+
+#: cosmetics/background/clover-meadow/metadata.ts:6
+msgid "Clover meadow"
+msgstr "Đồng cỏ ba lá"
+
+#: equipments/weapon/weapon-club/metadata.ts:6
+msgid "Club"
+msgstr "Chùy gỗ"
+
+#: enemies/ash-hound/metadata.ts:7
+msgid "Coal-dark hound trailing warm ash."
+msgstr "Chó săn đen như than, để lại vệt tro nóng."
+
+#: characters/hair/coily-crown/metadata.ts:6
+msgid "Coily crown"
+msgstr "Tóc xoăn xù tròn"
+
+#: enemies/thunder-roc/metadata.ts:7
+msgid "Colossal sky hunter crackling with lightning."
+msgstr "Mãnh điểu khổng lồ tích đầy sấm sét."
+
+#: cosmetics/bottom/comet-sash-trousers/metadata.ts:6
+msgid "Comet sash trousers"
+msgstr "Quần đai sao chổi"
+
+#: cosmetics/top/comet-thread-tabard/metadata.ts:6
+msgid "Comet tabard"
+msgstr "Áo choàng sao chổi"
+
+#: labels.ts:5
+msgid "Common"
+msgstr "Phổ thông"
+
+#: cosmetics/accessory/brass-compass-pendant/metadata.ts:6
+msgid "Compass pendant"
+msgstr "Dây chuyền la bàn"
+
+#: skills/skill-constrict/metadata.ts:7
+msgid "Constrict"
+msgstr "Siết chặt"
+
+#: cosmetics/hat/copper-flight-helmet/metadata.ts:6
+msgid "Copper flight helmet"
+msgstr "Mũ phi công đồng"
+
+#: equipments/charm/charm-copper-ring/metadata.ts:6
+msgid "Copper ring"
+msgstr "Nhẫn đồng"
+
+#: cosmetics/shoes/copper-trail-boots/metadata.ts:6
+msgid "Copper trail boots"
+msgstr "Ủng dã ngoại màu đồng"
+
+#: cosmetics/full_body/coral-diver-set/metadata.ts:6
+msgid "Coral diver"
+msgstr "Thợ lặn san hô"
+
+#: cosmetics/background/coral-window/metadata.ts:6
+msgid "Coral window"
+msgstr "Khung cửa san hô"
+
+#: cosmetics/bottom/corduroy-trousers/metadata.ts:6
+msgid "Corduroy trousers"
+msgstr "Quần nhung tăm"
+
+#: skills/skill-courage/metadata.ts:7
+msgid "Courage"
+msgstr "Can đảm"
+
+#: cosmetics/hat/courier-peak-cap/metadata.ts:6
+msgid "Courier cap"
+msgstr "Mũ người đưa thư"
+
+#: cosmetics/background/cozy-library/metadata.ts:6
+msgid "Cozy library"
+msgstr "Thư viện ấm cúng"
+
+#: cosmetics/full_body/cozy-sleep-set/metadata.ts:6
+msgid "Cozy pajamas"
+msgstr "Bộ đồ ngủ ấm áp"
+
+#: cosmetics/pet/cream-kitten/metadata.ts:6
+msgid "Cream kitten"
+msgstr "Mèo con màu kem"
+
+#: cosmetics/top/cream-pocket-tee/metadata.ts:9
+msgid "Cream T-shirt with a green chest pocket."
+msgstr "Áo thun màu kem với túi ngực màu xanh lá."
+
+#: cosmetics/top/cream-crew-tank/metadata.ts:6
+msgid "Cream tank top"
+msgstr "Áo ba lỗ màu kem"
+
+#: cosmetics/hat/crescent-circlet/metadata.ts:6
+msgid "Crescent circlet"
+msgstr "Vòng đầu trăng khuyết"
+
+#: cosmetics/pet/crest-cockatiel/metadata.ts:6
+msgid "Crested cockatiel"
+msgstr "Vẹt mào nhỏ"
+
+#: characters/hair/crew-cut/metadata.ts:6
+msgid "Crew cut"
+msgstr "Tóc húi cua"
+
+#: cosmetics/bottom/cropped-culottes/metadata.ts:6
+msgid "Cropped culottes"
+msgstr "Quần lửng ống rộng"
+
+#: equipments/weapon/weapon-crossbow/metadata.ts:6
+msgid "Crossbow"
+msgstr "Nỏ"
+
+#: skills/skill-crush/metadata.ts:7
+msgid "Crush"
+msgstr "Nghiền nát"
+
+#: enemies/crystal-beetle/metadata.ts:6
+msgid "Crystal beetle"
+msgstr "Bọ pha lê"
+
+#: cosmetics/top/crystal-panel-bodice/metadata.ts:6
+msgid "Crystal bodice"
+msgstr "Áo thân ôm pha lê"
+
+#: regions/crystal-depths/metadata.ts:6
+msgid "Crystal cave"
+msgstr "Hang pha lê"
+
+#: cosmetics/background/crystal-cavern/metadata.ts:6
+msgid "Crystal cavern"
+msgstr "Hang pha lê"
+
+#: cosmetics/hat/crystal-arc-crown/metadata.ts:6
+msgid "Crystal crown"
+msgstr "Vương miện pha lê"
+
+#: enemies/crystal-golem/metadata.ts:6
+msgid "Crystal golem"
+msgstr "Người đá pha lê"
+
+#: equipments/weapon/weapon-crystal-maul/metadata.ts:6
+msgid "Crystal maul"
+msgstr "Búa pha lê"
+
+#: cosmetics/bottom/crystal-pleat-skirt/metadata.ts:6
+msgid "Crystal pleated skirt"
+msgstr "Chân váy xếp ly pha lê"
+
+#: cosmetics/pet/crystal-snail/metadata.ts:6
+msgid "Crystal snail"
+msgstr "Ốc sên pha lê"
+
+#: cosmetics/accessory/crystal-wing-pair/metadata.ts:6
+msgid "Crystal wings"
+msgstr "Cánh pha lê"
+
+#: cosmetics/top/crystal-shoulder-tunic/metadata.ts:6
+msgid "Crystal-shoulder tunic"
+msgstr "Áo tunic vai pha lê"
+
+#: cosmetics/bottom/rolled-cuff-denim/metadata.ts:6
+msgid "Cuffed jeans"
+msgstr "Quần bò xắn gấu"
+
+#: characters/hair/rounded-curls/metadata.ts:6
+msgid "Curls"
+msgstr "Tóc xoăn"
+
+#: cosmetics/pet/curled-chameleon/metadata.ts:6
+msgid "Curly-tailed chameleon"
+msgstr "Tắc kè hoa đuôi cuộn"
+
+#: cosmetics/hat/round-cycle-helmet/metadata.ts:6
+msgid "Cycling helmet"
+msgstr "Mũ bảo hiểm xe đạp"
+
+#: equipments/weapon/weapon-dagger/metadata.ts:6
+msgid "Dagger"
+msgstr "Dao găm"
+
+#: skills/skill-spore-cloud/metadata.ts:6
+msgid "Damages all enemies and temporarily lowers their attack."
+msgstr "Gây sát thương lên tất cả kẻ địch và tạm thời giảm sức tấn công của chúng."
+
+#: skills/skill-ruin/metadata.ts:6
+msgid "Damages all enemies and temporarily lowers their defense."
+msgstr "Gây sát thương lên tất cả kẻ địch và tạm thời giảm phòng thủ của chúng."
+
+#: skills/skill-frost-breath/metadata.ts:6
+#: skills/skill-frost/metadata.ts:6
+msgid "Damages all enemies and temporarily slows them down."
+msgstr "Gây sát thương lên tất cả kẻ địch và tạm thời làm chậm chúng."
+
+#: skills/skill-barrage/metadata.ts:6
+#: skills/skill-ember-burst/metadata.ts:6
+#: skills/skill-gust/metadata.ts:6
+#: skills/skill-nova/metadata.ts:6
+#: skills/skill-shard-burst/metadata.ts:6
+#: skills/skill-sweep/metadata.ts:6
+#: skills/skill-tail-sweep/metadata.ts:6
+#: skills/skill-thunderclap/metadata.ts:6
+msgid "Damages all enemies."
+msgstr "Gây sát thương lên tất cả kẻ địch."
+
+#: skills/skill-disarm/metadata.ts:6
+#: skills/skill-sand-blast/metadata.ts:6
+msgid "Damages an enemy and temporarily lowers their attack."
+msgstr "Gây sát thương lên một kẻ địch và tạm thời giảm sức tấn công của nó."
+
+#: skills/skill-lunge/metadata.ts:6
+#: skills/skill-rend/metadata.ts:6
+#: skills/skill-sting/metadata.ts:6
+#: skills/skill-sunder/metadata.ts:6
+msgid "Damages an enemy and temporarily lowers their defense."
+msgstr "Gây sát thương lên một kẻ địch và tạm thời giảm phòng thủ của nó."
+
+#: skills/skill-constrict/metadata.ts:6
+#: skills/skill-slowing-shot/metadata.ts:6
+msgid "Damages an enemy and temporarily slows them down."
+msgstr "Gây sát thương lên một kẻ địch và tạm thời làm chậm nó."
+
+#: skills/skill-bite/metadata.ts:6
+#: skills/skill-crush/metadata.ts:6
+#: skills/skill-pounce/metadata.ts:6
+#: skills/skill-power-strike/metadata.ts:6
+#: skills/skill-shock/metadata.ts:6
+#: skills/skill-slam/metadata.ts:6
+#: skills/skill-strike/metadata.ts:6
+msgid "Damages an enemy."
+msgstr "Gây sát thương lên một kẻ địch."
+
+#: regions/ember-caldera/metadata.ts:7
+msgid "Dark volcanic rock surrounds glowing lava."
+msgstr "Đá núi lửa sẫm màu bao quanh dòng dung nham rực sáng."
+
+#: cosmetics/full_body/dashiki/metadata.ts:6
+msgid "Dashiki"
+msgstr "Dashiki"
+
+#: equipments/weapon/weapon-dawn-sword/metadata.ts:6
+msgid "Dawn sword"
+msgstr "Kiếm bình minh"
+
+#: enemies/ruin-mimic/metadata.ts:7
+msgid "Deceptive treasure chest hungry for adventurers."
+msgstr "Rương kho báu không thân thiện như vẻ bề ngoài."
+
+#: icons/combat/effect/icon-effect-defeat/metadata.ts:8
+msgid "Defeated"
+msgstr "Bị đánh bại"
+
+#: cosmetics/top/diamond-knit-slipover/metadata.ts:6
+msgid "Diamond-knit slipover"
+msgstr "Áo len sát nách hình thoi"
+
+#: cosmetics/top/diamond-yoke-sweater/metadata.ts:6
+msgid "Diamond-yoke sweater"
+msgstr "Áo len vai hình thoi"
+
+#: skills/skill-disarm/metadata.ts:7
+msgid "Disarm"
+msgstr "Tước vũ khí"
+
+#: enemies/penguin-guard/metadata.ts:7
+msgid "Disciplined penguin standing watch in the snow."
+msgstr "Chú chim cánh cụt kỷ luật đang canh gác giữa tuyết."
+
+#: cosmetics/top/double-button-peacoat/metadata.ts:6
+msgid "Double-breasted peacoat"
+msgstr "Áo khoác hai hàng khuy"
+
+#: equipments/armor/armor-dragon-scale/metadata.ts:6
+msgid "Dragon scale armor"
+msgstr "Giáp vảy rồng"
+
+#: cosmetics/bottom/drawstring-joggers/metadata.ts:6
+msgid "Drawstring joggers"
+msgstr "Quần jogger dây rút"
+
+#: enemies/lantern-jellyfish/metadata.ts:7
+msgid "Drifting jellyfish glowing like a lantern."
+msgstr "Sứa trôi nổi, phát sáng như đèn lồng."
+
+#: cosmetics/pet/duckling-pal/metadata.ts:6
+msgid "Duckling"
+msgstr "Vịt con"
+
+#: equipments/armor/armor-duelist-coat/metadata.ts:6
+msgid "Duelist coat"
+msgstr "Áo kiếm sĩ"
+
+#: cosmetics/full_body/dune-explorer-set/metadata.ts:6
+msgid "Dune explorer"
+msgstr "Nhà thám hiểm cồn cát"
+
+#: cosmetics/pet/dune-lizard/metadata.ts:6
+msgid "Dune lizard"
+msgstr "Thằn lằn cồn cát"
+
+#: cosmetics/background/dune-oasis/metadata.ts:6
+msgid "Dune oasis"
+msgstr "Ốc đảo cồn cát"
+
+#: enemies/dune-scorpion/metadata.ts:6
+msgid "Dune scorpion"
+msgstr "Bọ cạp cồn cát"
+
+#: regions/dune-basin/metadata.ts:6
+msgid "Dunes"
+msgstr "Cồn cát"
+
+#: labels.ts:13
+msgid "Easy"
+msgstr "Dễ"
+
+#: equipments/weapon/weapon-ember-blade/metadata.ts:6
+msgid "Ember blade"
+msgstr "Kiếm than hồng"
+
+#: skills/skill-ember-burst/metadata.ts:7
+msgid "Ember burst"
+msgstr "Lửa bùng"
+
+#: cosmetics/pet/ember-dragon/metadata.ts:6
+msgid "Ember dragon"
+msgstr "Rồng than hồng"
+
+#: enemies/ember-imp/metadata.ts:6
+msgid "Ember imp"
+msgstr "Tiểu quỷ than hồng"
+
+#: equipments/armor/armor-ember-mail/metadata.ts:6
+msgid "Ember mail"
+msgstr "Giáp than hồng"
+
+#: enemies/walking-armor/metadata.ts:7
+msgid "Empty suit of armor animated by old magic."
+msgstr "Giáp rỗng được phép thuật cổ xưa thổi hồn."
+
+#: cosmetics/accessory/letter-envelope-bag/metadata.ts:6
+msgid "Envelope bag"
+msgstr "Túi phong thư"
+
+#: labels.ts:8
+msgid "Epic"
+msgstr "Sử thi"
+
+#: skills/skill-expose/metadata.ts:7
+msgid "Expose"
+msgstr "Lộ sơ hở"
+
+#: cosmetics/pet/fan-tail-peacock/metadata.ts:6
+msgid "Fan-tail peacock"
+msgstr "Công xòe đuôi"
+
+#: equipments/charm/charm-feather-token/metadata.ts:6
+msgid "Feather token"
+msgstr "Bùa lông vũ"
+
+#: cosmetics/hat/feather-trail-hat/metadata.ts:6
+msgid "Feather trail hat"
+msgstr "Mũ dã ngoại gắn lông vũ"
+
+#: cosmetics/accessory/feather-wing-pair/metadata.ts:6
+msgid "Feather wings"
+msgstr "Đôi cánh lông vũ"
+
+#: cosmetics/top/feather-trim-coat/metadata.ts:6
+msgid "Feather-trim coat"
+msgstr "Áo khoác viền lông vũ"
+
+#: cosmetics/hat/soft-felt-beret/metadata.ts:6
+msgid "Felt beret"
+msgstr "Mũ nồi nỉ"
+
+#: cosmetics/full_body/fencing-practice-set/metadata.ts:6
+msgid "Fencing uniform"
+msgstr "Bộ đồ đấu kiếm"
+
+#: cosmetics/background/fern-clearing/metadata.ts:6
+msgid "Fern clearing"
+msgstr "Khoảng rừng dương xỉ"
+
+#: cosmetics/hat/festival-ribbon-bow/metadata.ts:6
+msgid "Festival bow"
+msgstr "Nơ lễ hội"
+
+#: cosmetics/full_body/festival-dancer-set/metadata.ts:6
+msgid "Festival dancer"
+msgstr "Vũ công lễ hội"
+
+#: cosmetics/top/festival-ribbon-blouse/metadata.ts:6
+msgid "Festival ribbon blouse"
+msgstr "Áo kiểu ruy băng lễ hội"
+
+#: cosmetics/accessory/field-binoculars/metadata.ts:6
+msgid "Field binoculars"
+msgstr "Ống nhòm dã ngoại"
+
+#: cosmetics/accessory/sage-field-goggles/metadata.ts:6
+msgid "Field goggles"
+msgstr "Kính bảo hộ dã ngoại"
+
+#: cosmetics/full_body/field-medic-set/metadata.ts:6
+msgid "Field medic"
+msgstr "Quân y dã chiến"
+
+#: enemies/storm-bird/metadata.ts:7
+msgid "Fierce bird carrying storm clouds beneath its wings."
+msgstr "Loài chim hung dữ với mây bão cuộn dưới đôi cánh."
+
+#: skills/skill-first-aid/metadata.ts:7
+msgid "First aid"
+msgstr "Sơ cứu"
+
+#: equipments/weapon/weapon-flail/metadata.ts:6
+msgid "Flail"
+msgstr "Chùy xích"
+
+#: cosmetics/top/fleece-zip-jacket/metadata.ts:6
+msgid "Fleece zip jacket"
+msgstr "Áo khoác nỉ khóa kéo"
+
+#: cosmetics/shoes/fleece-cuff-boots/metadata.ts:6
+msgid "Fleece-cuff boots"
+msgstr "Ủng cổ lông"
+
+#: cosmetics/background/floating-islands/metadata.ts:6
+msgid "Floating islands"
+msgstr "Đảo trên không"
+
+#: cosmetics/accessory/flower-corsage/metadata.ts:6
+msgid "Flower corsage"
+msgstr "Hoa cài áo"
+
+#: cosmetics/accessory/floral-shoulder-garland/metadata.ts:6
+msgid "Flower garland"
+msgstr "Vòng hoa choàng vai"
+
+#: cosmetics/background/flower-market/metadata.ts:6
+msgid "Flower market"
+msgstr "Chợ hoa"
+
+#: cosmetics/hat/flower-wreath/metadata.ts:6
+msgid "Flower wreath"
+msgstr "Vòng hoa"
+
+#: cosmetics/pet/round-chick/metadata.ts:6
+msgid "Fluffy chick"
+msgstr "Gà con bông xù"
+
+#: skills/skill-flurry/metadata.ts:7
+msgid "Flurry"
+msgstr "Liên kích"
+
+#: skills/skill-focus/metadata.ts:7
+msgid "Focus"
+msgstr "Tập trung"
+
+#: cosmetics/hat/leaf-fold-hat/metadata.ts:6
+msgid "Folded leaf hat"
+msgstr "Mũ lá gấp"
+
+#: regions/forest-clearing/metadata.ts:6
+msgid "Forest clearing"
+msgstr "Khoảng rừng thưa"
+
+#: skills/skill-fortify/metadata.ts:7
+msgid "Fortify"
+msgstr "Củng cố"
+
+#: cosmetics/hat/fox-ear-band/metadata.ts:6
+msgid "Fox-ear headband"
+msgstr "Băng đô tai cáo"
+
+#: cosmetics/hat/frog-eye-cap/metadata.ts:6
+msgid "Frog cap"
+msgstr "Mũ mắt ếch"
+
+#: skills/skill-frost/metadata.ts:7
+msgid "Frost"
+msgstr "Băng giá"
+
+#: skills/skill-frost-breath/metadata.ts:7
+msgid "Frost breath"
+msgstr "Hơi thở băng giá"
+
+#: equipments/armor/armor-frost-cloak/metadata.ts:6
+msgid "Frost cloak"
+msgstr "Áo choàng băng"
+
+#: equipments/charm/charm-frost-crystal/metadata.ts:6
+msgid "Frost crystal"
+msgstr "Tinh thể băng"
+
+#: equipments/weapon/weapon-frost-scepter/metadata.ts:6
+msgid "Frost scepter"
+msgstr "Quyền trượng băng"
+
+#: enemies/frost-wolf/metadata.ts:6
+msgid "Frost wolf"
+msgstr "Sói băng"
+
+#: equipments/armor/armor-gambeson/metadata.ts:6
+msgid "Gambeson"
+msgstr "Áo giáp đệm"
+
+#: cosmetics/full_body/garden-overalls/metadata.ts:6
+msgid "Garden overalls"
+msgstr "Quần yếm làm vườn"
+
+#: cosmetics/pet/soft-pony/metadata.ts:6
+msgid "Gentle pony"
+msgstr "Ngựa con hiền lành"
+
+#: cosmetics/full_body/glacier-ranger-set/metadata.ts:6
+msgid "Glacier ranger"
+msgstr "Người gác sông băng"
+
+#: cosmetics/background/glass-greenhouse/metadata.ts:6
+msgid "Glass greenhouse"
+msgstr "Nhà kính"
+
+#: skills/skill-brace/metadata.ts:6
+#: skills/skill-bulwark/metadata.ts:6
+#: skills/skill-molten-shell/metadata.ts:6
+#: skills/skill-shell-guard/metadata.ts:6
+#: skills/skill-ward/metadata.ts:6
+msgid "Grants a temporary shield."
+msgstr "Tạo lá chắn tạm thời cho bản thân."
+
+#: skills/skill-aegis/metadata.ts:6
+#: skills/skill-sanctuary/metadata.ts:6
+#: skills/skill-warding-song/metadata.ts:6
+msgid "Grants all allies a temporary shield."
+msgstr "Tạo lá chắn tạm thời cho tất cả đồng đội."
+
+#: equipments/weapon/weapon-greatsword/metadata.ts:6
+msgid "Greatsword"
+msgstr "Đại kiếm"
+
+#: enemies/grove-guardian/metadata.ts:7
+msgid "Grove guardian"
+msgstr "Vệ thần rừng"
+
+#: skills/skill-gust/metadata.ts:7
+msgid "Gust"
+msgstr "Gió giật"
+
+#: equipments/weapon/weapon-halberd/metadata.ts:6
+msgid "Halberd"
+msgstr "Kích"
+
+#: cosmetics/accessory/half-moon-spectacles/metadata.ts:6
+msgid "Half-moon glasses"
+msgstr "Kính bán nguyệt"
+
+#: cosmetics/full_body/hanbok/metadata.ts:6
+msgid "Hanbok"
+msgstr "Hanbok"
+
+#: equipments/weapon/weapon-hand-axe/metadata.ts:6
+msgid "Hand axe"
+msgstr "Rìu tay"
+
+#: cosmetics/background/harbor-pier/metadata.ts:6
+msgid "Harbor pier"
+msgstr "Cầu cảng"
+
+#: cosmetics/full_body/harbor-sailor-set/metadata.ts:6
+msgid "Harbor sailor"
+msgstr "Thủy thủ bến cảng"
+
+#: labels.ts:15
+msgid "Hard"
+msgstr "Khó"
+
+#: equipments/weapon/weapon-harp/metadata.ts:6
+msgid "Harp"
+msgstr "Đàn hạc"
+
+#: skills/skill-haste/metadata.ts:7
+msgid "Haste"
+msgstr "Tăng tốc"
+
+#: equipments/armor/armor-healer-vestments/metadata.ts:6
+msgid "Healer vestments"
+msgstr "Áo thầy thuốc"
+
+#: skills/skill-healing-song/metadata.ts:7
+msgid "Healing song"
+msgstr "Khúc ca hồi phục"
+
+#: equipments/weapon/weapon-healing-staff/metadata.ts:6
+msgid "Healing staff"
+msgstr "Trượng hồi phục"
+
+#: icons/combat/resource/icon-resource-health/metadata.ts:8
+msgid "Health"
+msgstr "Sinh lực"
+
+#: equipments/charm/charm-heart-pendant/metadata.ts:6
+msgid "Heart pendant"
+msgstr "Mặt dây trái tim"
+
+#: equipments/charm/charm-herb-pouch/metadata.ts:7
+msgid "Herb pouch"
+msgstr "Túi thảo dược"
+
+#: cosmetics/pet/shell-hermit/metadata.ts:6
+msgid "Hermit crab"
+msgstr "Ốc mượn hồn"
+
+#: cosmetics/bottom/herringbone-bloomers/metadata.ts:6
+msgid "Herringbone bloomers"
+msgstr "Quần phồng vân xương cá"
+
+#: equipments/armor/armor-hide-vest/metadata.ts:6
+msgid "Hide vest"
+msgstr "Áo da thú"
+
+#: characters/hair/high-ponytail/metadata.ts:6
+msgid "High ponytail"
+msgstr "Tóc đuôi ngựa buộc cao"
+
+#: cosmetics/background/hilltop-windmill/metadata.ts:6
+msgid "Hilltop windmill"
+msgstr "Cối xay gió trên đồi"
+
+#: effects/impact/impact-hit/metadata.ts:6
+msgid "Hit"
+msgstr "Va chạm"
+
+#: cosmetics/pet/honey-bumblebee/metadata.ts:6
+msgid "Honey bumblebee"
+msgstr "Ong nghệ mật"
+
+#: equipments/charm/charm-hourglass/metadata.ts:6
+msgid "Hourglass"
+msgstr "Đồng hồ cát"
+
+#: skills/skill-impede/metadata.ts:7
+msgid "Impede"
+msgstr "Cản trở"
+
+#: cosmetics/bottom/indigo-bootcut-pants/metadata.ts:6
+msgid "Indigo bootcut pants"
+msgstr "Quần ống loe xanh chàm"
+
+#: cosmetics/shoes/indigo-high-tops/metadata.ts:6
+msgid "Indigo high-tops"
+msgstr "Giày cao cổ xanh chàm"
+
+#: cosmetics/top/indigo-block-tee/metadata.ts:6
+msgid "Indigo panel tee"
+msgstr "Áo thun phối mảng xanh chàm"
+
+#: cosmetics/top/indigo-racer-tank/metadata.ts:6
+msgid "Indigo racer tank"
+msgstr "Áo ba lỗ thể thao xanh chàm"
+
+#: equipments/charm/charm-iron-locket/metadata.ts:6
+msgid "Iron locket"
+msgstr "Mề đay sắt"
+
+#: skills/skill-iron-will/metadata.ts:7
+msgid "Iron will"
+msgstr "Ý chí sắt đá"
+
+#: cosmetics/full_body/everyday-jumpsuit/metadata.ts:6
+msgid "Jumpsuit"
+msgstr "Bộ đồ liền thân"
+
+#: cosmetics/full_body/kebaya/metadata.ts:6
+msgid "Kebaya"
+msgstr "Kebaya"
+
+#: cosmetics/full_body/kilt/metadata.ts:6
+msgid "Kilt"
+msgstr "Váy kilt"
+
+#: equipments/armor/armor-kite-shield/metadata.ts:6
+msgid "Kite shield"
+msgstr "Khiên cánh diều"
+
+#: cosmetics/hat/knotted-work-band/metadata.ts:6
+msgid "Knotted headband"
+msgstr "Băng đô thắt nút"
+
+#: cosmetics/accessory/knotted-kerchief/metadata.ts:6
+msgid "Knotted neckerchief"
+msgstr "Khăn quàng thắt nút"
+
+#: cosmetics/full_body/kurta/metadata.ts:6
+msgid "Kurta"
+msgstr "Kurta"
+
+#: equipments/armor/armor-lamellar/metadata.ts:6
+msgid "Lamellar armor"
+msgstr "Giáp lá"
+
+#: equipments/charm/charm-lantern/metadata.ts:6
+msgid "Lantern"
+msgstr "Đèn lồng"
+
+#: cosmetics/hat/lantern-festival-hat/metadata.ts:6
+msgid "Lantern festival hat"
+msgstr "Mũ hội đèn lồng"
+
+#: cosmetics/bottom/lantern-festival-skirt/metadata.ts:6
+msgid "Lantern festival skirt"
+msgstr "Chân váy hội đèn lồng"
+
+#: cosmetics/pet/lantern-jelly/metadata.ts:6
+#: enemies/lantern-jellyfish/metadata.ts:6
+msgid "Lantern jellyfish"
+msgstr "Sứa đèn lồng"
+
+#: cosmetics/background/lantern-festival-square/metadata.ts:6
+msgid "Lantern square"
+msgstr "Quảng trường đèn lồng"
+
+#: enemies/lava-drake/metadata.ts:6
+msgid "Lava drake"
+msgstr "Rồng dung nham"
+
+#: enemies/lava-slug/metadata.ts:6
+msgid "Lava slug"
+msgstr "Sên dung nham"
+
+#: cosmetics/accessory/leaf-pin-brooch/metadata.ts:6
+msgid "Leaf brooch"
+msgstr "Trâm cài lá"
+
+#: cosmetics/pet/leaf-caterpillar/metadata.ts:6
+msgid "Leaf caterpillar"
+msgstr "Sâu xanh"
+
+#: cosmetics/pet/leaf-finch/metadata.ts:6
+msgid "Leaf finch"
+msgstr "Chim sẻ lá"
+
+#: cosmetics/pet/leaf-hedgehog/metadata.ts:6
+msgid "Leaf hedgehog"
+msgstr "Nhím lá"
+
+#: cosmetics/full_body/leaf-warden-set/metadata.ts:6
+msgid "Leaf warden"
+msgstr "Người bảo vệ lá"
+
+#: cosmetics/accessory/leaf-wing-pack/metadata.ts:6
+msgid "Leaf wings"
+msgstr "Cánh lá"
+
+#: cosmetics/bottom/leaf-embroidered-pants/metadata.ts:6
+msgid "Leaf-embroidered pants"
+msgstr "Quần thêu lá"
+
+#: cosmetics/top/leaf-panel-vest/metadata.ts:6
+msgid "Leaf-panel vest"
+msgstr "Áo gile ghép lá"
+
+#: cosmetics/hat/leaf-stitch-cap/metadata.ts:6
+msgid "Leaf-stitch cap"
+msgstr "Mũ thêu lá"
+
+#: equipments/armor/armor-leather-jacket/metadata.ts:6
+msgid "Leather jacket"
+msgstr "Áo khoác da"
+
+#: cosmetics/top/workshop-leather-apron/metadata.ts:6
+msgid "Leather workshop apron"
+msgstr "Tạp dề da xưởng thủ công"
+
+#: labels.ts:9
+msgid "Legendary"
+msgstr "Huyền thoại"
+
+#: cosmetics/background/lighthouse-bay/metadata.ts:6
+msgid "Lighthouse bay"
+msgstr "Vịnh hải đăng"
+
+#: cosmetics/hat/linen-bucket-hat/metadata.ts:6
+msgid "Linen bucket hat"
+msgstr "Mũ xô vải lanh"
+
+#: equipments/armor/armor-linen-robe/metadata.ts:6
+msgid "Linen robe"
+msgstr "Áo vải lanh"
+
+#: cosmetics/top/wrap-linen-top/metadata.ts:6
+msgid "Linen wrap top"
+msgstr "Áo vạt chéo vải lanh"
+
+#: enemies/acornling/metadata.ts:8
+msgid "Little acorn with a stubborn streak."
+msgstr "Hạt sồi nhỏ có tính bướng bỉnh."
+
+#: cosmetics/pet/round-bear-cub/metadata.ts:6
+msgid "Little bear cub"
+msgstr "Gấu con tròn trĩnh"
+
+#: cosmetics/pet/small-goat/metadata.ts:6
+msgid "Little goat"
+msgstr "Dê con"
+
+#: cosmetics/pet/little-octopus/metadata.ts:6
+msgid "Little octopus"
+msgstr "Bạch tuộc nhỏ"
+
+#: enemies/rockling/metadata.ts:7
+msgid "Lively little boulder with sturdy legs."
+msgstr "Tảng đá nhỏ lanh lợi với đôi chân vững chãi."
+
+#: characters/hair/long-ribbon-cut/metadata.ts:6
+msgid "Long hair"
+msgstr "Tóc dài"
+
+#: cosmetics/accessory/soft-long-tie/metadata.ts:6
+msgid "Long tie"
+msgstr "Cà vạt dài"
+
+#: cosmetics/full_body/ao-dai/metadata.ts:9
+msgid "Long tunic with side slits, worn over trousers."
+msgstr "Áo tà dài xẻ hai bên, mặc cùng quần."
+
+#: cosmetics/pet/long-beak-toucan/metadata.ts:6
+msgid "Long-beak toucan"
+msgstr "Chim tu-căng mỏ dài"
+
+#: cosmetics/pet/long-ear-rabbit/metadata.ts:6
+msgid "Long-ear rabbit"
+msgstr "Thỏ tai dài"
+
+#: equipments/weapon/weapon-longsword/metadata.ts:6
+msgid "Longsword"
+msgstr "Trường kiếm"
+
+#: cosmetics/accessory/loop-knit-scarf/metadata.ts:6
+msgid "Loop scarf"
+msgstr "Khăn len vòng"
+
+#: characters/hair/loose-waves/metadata.ts:6
+msgid "Loose waves"
+msgstr "Tóc dài gợn sóng"
+
+#: equipments/charm/charm-lucky-knot/metadata.ts:6
+msgid "Lucky knot"
+msgstr "Nút thắt may mắn"
+
+#: equipments/charm/charm-lunar-lens/metadata.ts:6
+msgid "Lunar lens"
+msgstr "Thấu kính mặt trăng"
+
+#: skills/skill-lunge/metadata.ts:7
+msgid "Lunge"
+msgstr "Đâm tới"
+
+#: equipments/weapon/weapon-mace/metadata.ts:6
+msgid "Mace"
+msgstr "Chùy sắt"
+
+#: equipments/armor/armor-mage-mantle/metadata.ts:6
+msgid "Mage mantle"
+msgstr "Áo choàng pháp sư"
+
+#: cosmetics/background/map-room/metadata.ts:6
+msgid "Map room"
+msgstr "Phòng bản đồ"
+
+#: cosmetics/accessory/rolled-map-sling/metadata.ts:6
+msgid "Map sling"
+msgstr "Bao đeo bản đồ"
+
+#: cosmetics/pet/masked-raccoon/metadata.ts:6
+msgid "Masked raccoon"
+msgstr "Gấu mèo mặt nạ"
+
+#: enemies/sand-wyrm/metadata.ts:7
+msgid "Massive desert burrower crowned in sharp spines."
+msgstr "Sinh vật đào hang khổng lồ trên sa mạc với vương miện gai."
+
+#: icons/combat/status/icon-status-max-health-up/metadata.ts:9
+msgid "Maximum health increased"
+msgstr "Tăng sinh lực tối đa"
+
+#: cosmetics/full_body/meadow-pinafore/metadata.ts:6
+msgid "Meadow pinafore"
+msgstr "Váy yếm đồng cỏ"
+
+#: cosmetics/accessory/mechanical-wing-pack/metadata.ts:6
+msgid "Mechanical wings"
+msgstr "Cánh cơ khí"
+
+#: labels.ts:14
+msgid "Medium"
+msgstr "Trung bình"
+
+#: skills/skill-mend/metadata.ts:7
+msgid "Mend"
+msgstr "Chữa lành"
+
+#: skills/skill-mending-rain/metadata.ts:7
+msgid "Mending rain"
+msgstr "Mưa hồi phục"
+
+#: equipments/armor/armor-mirror-shield/metadata.ts:6
+msgid "Mirror shield"
+msgstr "Khiên gương"
+
+#: enemies/ember-imp/metadata.ts:7
+msgid "Mischievous spark thriving near open flames."
+msgstr "Lửa tinh nghịch sống khỏe gần ngọn lửa."
+
+#: skills/skill-molten-shell/metadata.ts:7
+msgid "Molten shell"
+msgstr "Vỏ dung nham"
+
+#: equipments/weapon/weapon-moon-bow/metadata.ts:6
+msgid "Moon bow"
+msgstr "Cung trăng"
+
+#: cosmetics/full_body/moon-courier-set/metadata.ts:6
+msgid "Moon courier"
+msgstr "Người đưa thư ánh trăng"
+
+#: cosmetics/pet/moon-moth/metadata.ts:6
+msgid "Moon moth"
+msgstr "Bướm đêm ánh trăng"
+
+#: cosmetics/background/moonlit-ruins/metadata.ts:6
+msgid "Moonlit ruins"
+msgstr "Phế tích dưới trăng"
+
+#: enemies/moss-slime/metadata.ts:6
+msgid "Moss slime"
+msgstr "Slime rêu"
+
+#: cosmetics/pet/moss-turtle/metadata.ts:6
+msgid "Moss turtle"
+msgstr "Rùa rêu"
+
+#: regions/frost-pass/metadata.ts:7
+msgid "Mountain pass covered in snow."
+msgstr "Đèo phủ đầy tuyết."
+
+#: cosmetics/background/museum-hall/metadata.ts:6
+msgid "Museum hall"
+msgstr "Sảnh bảo tàng"
+
+#: cosmetics/hat/mushroom-bell-cap/metadata.ts:6
+msgid "Mushroom cap"
+msgstr "Mũ nấm"
+
+#: cosmetics/background/mushroom-glen/metadata.ts:6
+msgid "Mushroom glen"
+msgstr "Thung lũng nấm"
+
+#: cosmetics/pet/mushroom-sprite/metadata.ts:6
+msgid "Mushroom sprite"
+msgstr "Tinh linh nấm"
+
+#: cosmetics/background/music-room/metadata.ts:6
+msgid "Music room"
+msgstr "Phòng nhạc"
+
+#: enemies/sand-crab/metadata.ts:7
+msgid "Nimble crab burrowing beneath warm sands."
+msgstr "Cua nhanh nhẹn đào hang dưới cát ấm."
+
+#: cosmetics/top/notched-lapel-blazer/metadata.ts:6
+msgid "Notched-lapel blazer"
+msgstr "Áo blazer ve chữ V"
+
+#: cosmetics/accessory/notebook-harness/metadata.ts:6
+msgid "Notebook harness"
+msgstr "Đai đeo sổ tay"
+
+#: skills/skill-nova/metadata.ts:7
+msgid "Nova"
+msgstr "Bùng sáng"
+
+#: equipments/weapon/weapon-oak-staff/metadata.ts:6
+msgid "Oak staff"
+msgstr "Trượng gỗ sồi"
+
+#: cosmetics/hat/ochre-site-helmet/metadata.ts:6
+msgid "Ochre hard hat"
+msgstr "Mũ bảo hộ vàng đất"
+
+#: cosmetics/top/ochre-henley-shirt/metadata.ts:6
+msgid "Ochre Henley shirt"
+msgstr "Áo cổ khuy vàng đất"
+
+#: cosmetics/hat/ochre-sun-visor/metadata.ts:6
+msgid "Ochre sun visor"
+msgstr "Mũ nửa đầu vàng đất"
+
+#: regions/dune-basin/metadata.ts:7
+msgid "Open basin surrounded by desert dunes."
+msgstr "Trũng rộng giữa những cồn cát sa mạc."
+
+#: regions/forest-clearing/metadata.ts:7
+msgid "Open clearing among the trees."
+msgstr "Đất trống giữa rừng cây."
+
+#: cosmetics/hat/orbit-disc-hat/metadata.ts:6
+msgid "Orbit hat"
+msgstr "Mũ quỹ đạo"
+
+#: cosmetics/top/orchard-apron-top/metadata.ts:6
+msgid "Orchard apron top"
+msgstr "Áo tạp dề nhà vườn"
+
+#: cosmetics/bottom/orchard-check-shorts/metadata.ts:6
+msgid "Orchard check shorts"
+msgstr "Quần soóc ca rô nhà vườn"
+
+#: cosmetics/background/orchard-path/metadata.ts:6
+msgid "Orchard path"
+msgstr "Lối đi vườn cây"
+
+#: cosmetics/top/orchard-print-shirt/metadata.ts:6
+msgid "Orchard print shirt"
+msgstr "Áo sơ mi họa tiết vườn cây"
+
+#: cosmetics/full_body/orchard-worker-set/metadata.ts:6
+msgid "Orchard worker"
+msgstr "Người làm vườn cây"
+
+#: cosmetics/accessory/oval-sun-glasses/metadata.ts:6
+msgid "Oval sunglasses"
+msgstr "Kính râm bầu dục"
+
+#: cosmetics/bottom/over-knee-knickers/metadata.ts:6
+msgid "Over-knee breeches"
+msgstr "Quần lửng quá gối"
+
+#: equipments/armor/armor-padded-vest/metadata.ts:6
+msgid "Padded vest"
+msgstr "Áo giáp lót"
+
+#: cosmetics/full_body/painter-work-set/metadata.ts:6
+msgid "Painter’s workwear"
+msgstr "Bộ đồ họa sĩ"
+
+#: enemies/frost-wolf/metadata.ts:7
+msgid "Pale wolf wrapped in an icy breath."
+msgstr "Sói trắng nhợt được bao quanh bởi hơi thở băng giá."
+
+#: cosmetics/top/paneled-cycle-jersey/metadata.ts:6
+msgid "Panel cycling jersey"
+msgstr "Áo đạp xe phối mảnh"
+
+#: cosmetics/bottom/paneled-riding-breeches/metadata.ts:6
+msgid "Paneled riding breeches"
+msgstr "Quần cưỡi ngựa phối mảnh"
+
+#: cosmetics/hat/folded-paper-crown/metadata.ts:6
+msgid "Paper crown"
+msgstr "Vương miện giấy"
+
+#: cosmetics/pet/patch-ear-corgi/metadata.ts:6
+msgid "Patch-ear corgi"
+msgstr "Chó corgi tai đốm"
+
+#: cosmetics/bottom/patch-pocket-cargos/metadata.ts:6
+msgid "Patch-pocket cargos"
+msgstr "Quần túi hộp nổi"
+
+#: cosmetics/bottom/panel-patch-trousers/metadata.ts:6
+msgid "Patchwork trousers"
+msgstr "Quần ghép vải"
+
+#: cosmetics/pet/pebble-puffin/metadata.ts:6
+msgid "Pebble puffin"
+msgstr "Hải âu cổ rụt sỏi"
+
+#: cosmetics/pet/pebble-seal/metadata.ts:6
+msgid "Pebble seal"
+msgstr "Hải cẩu sỏi"
+
+#: cosmetics/background/pebble-stream/metadata.ts:6
+msgid "Pebble stream"
+msgstr "Suối sỏi"
+
+#: cosmetics/bottom/soft-pencil-skirt/metadata.ts:6
+msgid "Pencil skirt"
+msgstr "Chân váy bút chì"
+
+#: enemies/penguin-guard/metadata.ts:6
+msgid "Penguin guard"
+msgstr "Lính gác cánh cụt"
+
+#: cosmetics/pet/petal-butterfly/metadata.ts:6
+msgid "Petal butterfly"
+msgstr "Bướm cánh hoa"
+
+#: cosmetics/bottom/petal-hem-skirt/metadata.ts:6
+msgid "Petal hem skirt"
+msgstr "Chân váy gấu cánh hoa"
+
+#: cosmetics/top/petal-strap-blouse/metadata.ts:6
+msgid "Petal-strap blouse"
+msgstr "Áo kiểu quai cánh hoa"
+
+#: equipments/charm/charm-phoenix-feather/metadata.ts:6
+msgid "Phoenix feather"
+msgstr "Lông phượng hoàng"
+
+#: cosmetics/accessory/picnic-basket-bag/metadata.ts:6
+msgid "Picnic basket"
+msgstr "Giỏ dã ngoại"
+
+#: cosmetics/background/pine-camp/metadata.ts:6
+msgid "Pine camp"
+msgstr "Trại rừng thông"
+
+#: equipments/armor/armor-plate-cuirass/metadata.ts:6
+msgid "Plate cuirass"
+msgstr "Giáp ngực thép"
+
+#: enemies/wind-sprite/metadata.ts:7
+msgid "Playful spirit riding every passing breeze."
+msgstr "Tinh linh tinh nghịch cưỡi trên mọi làn gió thoảng."
+
+#: cosmetics/bottom/pleated-midi-skirt/metadata.ts:6
+msgid "Pleated midi skirt"
+msgstr "Chân váy midi xếp ly"
+
+#: cosmetics/bottom/pleated-walking-shorts/metadata.ts:6
+msgid "Pleated walking shorts"
+msgstr "Quần soóc xếp ly"
+
+#: cosmetics/pet/round-robin/metadata.ts:6
+msgid "Plump robin"
+msgstr "Chim cổ đỏ tròn trĩnh"
+
+#: cosmetics/top/pocket-denim-jacket/metadata.ts:6
+msgid "Pocket denim jacket"
+msgstr "Áo khoác bò túi hộp"
+
+#: cosmetics/top/soft-polo-shirt/metadata.ts:6
+msgid "Polo shirt"
+msgstr "Áo polo"
+
+#: cosmetics/hat/pom-knit-hat/metadata.ts:6
+msgid "Pom-pom beanie"
+msgstr "Mũ len quả bông"
+
+#: cosmetics/pet/pond-frog/metadata.ts:6
+msgid "Pond frog"
+msgstr "Ếch ao"
+
+#: cosmetics/full_body/pottery-apron-set/metadata.ts:6
+msgid "Potter’s apron set"
+msgstr "Bộ tạp dề thợ gốm"
+
+#: cosmetics/top/potters-work-shirt/metadata.ts:6
+msgid "Potter’s work shirt"
+msgstr "Áo làm việc thợ gốm"
+
+#: cosmetics/background/pottery-studio/metadata.ts:6
+msgid "Pottery studio"
+msgstr "Xưởng gốm"
+
+#: skills/skill-pounce/metadata.ts:7
+msgid "Pounce"
+msgstr "Vồ"
+
+#: skills/skill-power-strike/metadata.ts:7
+msgid "Power strike"
+msgstr "Cường kích"
+
+#: equipments/weapon/weapon-practice-sword/metadata.ts:7
+msgid "Practice sword"
+msgstr "Kiếm tập"
+
+#: cosmetics/full_body/prism-performer-set/metadata.ts:6
+msgid "Prism performer"
+msgstr "Nghệ sĩ lăng kính"
+
+#: skills/skill-quickstep/metadata.ts:7
+msgid "Quickstep"
+msgstr "Bước nhanh"
+
+#: cosmetics/top/quilted-field-jacket/metadata.ts:6
+msgid "Quilted field jacket"
+msgstr "Áo khoác dã ngoại chần bông"
+
+#: cosmetics/top/quilted-pocket-vest/metadata.ts:6
+msgid "Quilted pocket vest"
+msgstr "Áo gile chần bông túi hộp"
+
+#: cosmetics/bottom/quilted-snow-pants/metadata.ts:6
+msgid "Quilted snow pants"
+msgstr "Quần tuyết chần bông"
+
+#: cosmetics/top/quilted-snow-parka/metadata.ts:6
+msgid "Quilted snow parka"
+msgstr "Áo parka tuyết chần bông"
+
+#: cosmetics/hat/quilted-trapper/metadata.ts:6
+msgid "Quilted trapper hat"
+msgstr "Mũ chần bông che tai"
+
+#: cosmetics/hat/rabbit-ear-cap/metadata.ts:6
+msgid "Rabbit-ear cap"
+msgstr "Mũ tai thỏ"
+
+#: cosmetics/top/raglan-baseball-top/metadata.ts:6
+msgid "Raglan baseball shirt"
+msgstr "Áo bóng chày raglan"
+
+#: cosmetics/hat/rain-sou-wester/metadata.ts:6
+msgid "Rain hat"
+msgstr "Mũ đi mưa"
+
+#: cosmetics/bottom/rain-shell-trousers/metadata.ts:6
+msgid "Rain trousers"
+msgstr "Quần đi mưa"
+
+#: cosmetics/full_body/rainy-day-set/metadata.ts:6
+msgid "Rainy day set"
+msgstr "Bộ đồ ngày mưa"
+
+#: skills/skill-rally/metadata.ts:7
+msgid "Rally"
+msgstr "Hiệu triệu"
+
+#: equipments/weapon/weapon-rapier/metadata.ts:6
+msgid "Rapier"
+msgstr "Kiếm liễu"
+
+#: labels.ts:7
+msgid "Rare"
+msgstr "Hiếm"
+
+#: skills/skill-recover/metadata.ts:7
+msgid "Recover"
+msgstr "Hồi phục"
+
+#: equipments/weapon/weapon-recurve-bow/metadata.ts:6
+msgid "Recurve bow"
+msgstr "Cung cánh cong"
+
+#: cosmetics/background/reed-pond/metadata.ts:6
+msgid "Reed pond"
+msgstr "Ao lau sậy"
+
+#: enemies/reef-serpent/metadata.ts:6
+msgid "Reef serpent"
+msgstr "Rắn rạn san hô"
+
+#: skills/skill-regroup/metadata.ts:7
+msgid "Regroup"
+msgstr "Chấn chỉnh"
+
+#: skills/skill-regrowth/metadata.ts:7
+msgid "Regrowth"
+msgstr "Tái tạo"
+
+#: skills/skill-rend/metadata.ts:7
+msgid "Rend"
+msgstr "Xé giáp"
+
+#: skills/skill-renewal/metadata.ts:7
+msgid "Renewal"
+msgstr "Tái sinh"
+
+#: equipments/charm/charm-renewal-seed/metadata.ts:6
+msgid "Renewal seed"
+msgstr "Hạt hồi sinh"
+
+#: skills/skill-resolve/metadata.ts:7
+msgid "Resolve"
+msgstr "Quyết tâm"
+
+#: enemies/sand-spirit/metadata.ts:7
+msgid "Restless desert sands given shape."
+msgstr "Vòng xoáy cát không ngừng nghỉ mang hình hài."
+
+#: skills/skill-vigor/metadata.ts:6
+msgid "Restores health and grants a temporary shield."
+msgstr "Hồi máu và nhận lá chắn tạm thời."
+
+#: skills/skill-resolve/metadata.ts:6
+msgid "Restores health and temporarily increases defense."
+msgstr "Hồi máu và tạm thời tăng phòng thủ của bản thân."
+
+#: skills/skill-healing-song/metadata.ts:6
+#: skills/skill-mending-rain/metadata.ts:6
+#: skills/skill-renewal/metadata.ts:6
+#: skills/skill-soothe/metadata.ts:6
+msgid "Restores health to all allies."
+msgstr "Hồi máu cho tất cả đồng đội."
+
+#: skills/skill-first-aid/metadata.ts:6
+#: skills/skill-mend/metadata.ts:6
+#: skills/skill-recover/metadata.ts:6
+#: skills/skill-regrowth/metadata.ts:6
+#: skills/skill-revitalize/metadata.ts:6
+msgid "Restores health."
+msgstr "Hồi máu cho bản thân."
+
+#: skills/skill-revitalize/metadata.ts:7
+msgid "Revitalize"
+msgstr "Tiếp sức"
+
+#: cosmetics/hat/ribbed-watch-cap/metadata.ts:6
+msgid "Ribbed beanie"
+msgstr "Mũ len gân"
+
+#: cosmetics/top/ribbed-crew-jumper/metadata.ts:6
+msgid "Ribbed crewneck"
+msgstr "Áo len gân cổ tròn"
+
+#: cosmetics/bottom/ribbed-track-pants/metadata.ts:6
+msgid "Ribbed track pants"
+msgstr "Quần thể thao bo gân"
+
+#: cosmetics/accessory/ribbon-bow-tie/metadata.ts:6
+msgid "Ribbon bow tie"
+msgstr "Nơ ruy băng"
+
+#: cosmetics/pet/ribbon-ferret/metadata.ts:6
+msgid "Ribbon ferret"
+msgstr "Chồn sương thắt nơ"
+
+#: cosmetics/accessory/medallion-ribbon/metadata.ts:6
+msgid "Ribbon medallion"
+msgstr "Huy chương ruy băng"
+
+#: cosmetics/shoes/ribbon-mary-janes/metadata.ts:6
+msgid "Ribbon strap shoes"
+msgstr "Giày quai thắt nơ"
+
+#: cosmetics/hat/ribbon-straw-hat/metadata.ts:6
+msgid "Ribbon straw hat"
+msgstr "Mũ cói thắt nơ"
+
+#: enemies/rockling/metadata.ts:6
+msgid "Rockling"
+msgstr "Đá con"
+
+#: regions/crystal-depths/metadata.ts:7
+msgid "Rocky cavern lined with crystals."
+msgstr "Hang đá với những vách pha lê."
+
+#: cosmetics/top/folded-sleeve-shirt/metadata.ts:6
+msgid "Rolled-sleeve shirt"
+msgstr "Áo sơ mi xắn tay"
+
+#: cosmetics/full_body/rose-ceremony-set/metadata.ts:6
+msgid "Rose ceremony set"
+msgstr "Lễ phục hoa hồng"
+
+#: cosmetics/pet/round-beetle/metadata.ts:6
+msgid "Round beetle"
+msgstr "Bọ cánh cứng tròn"
+
+#: enemies/snow-puff/metadata.ts:7
+msgid "Round bundle of snow bursting with energy."
+msgstr "Tuyết tròn trịa tràn đầy năng lượng."
+
+#: cosmetics/accessory/round-reading-glasses/metadata.ts:6
+msgid "Round glasses"
+msgstr "Kính tròn"
+
+#: cosmetics/pet/round-pufferfish/metadata.ts:6
+msgid "Round pufferfish"
+msgstr "Cá nóc tròn"
+
+#: skills/skill-ruin/metadata.ts:7
+msgid "Ruin"
+msgstr "Hủy diệt"
+
+#: enemies/ruin-mimic/metadata.ts:6
+msgid "Ruin mimic"
+msgstr "Rương quái phế tích"
+
+#: enemies/ruin-wisp/metadata.ts:6
+msgid "Ruin wisp"
+msgstr "Đốm sáng phế tích"
+
+#: regions/quiet-ruins/metadata.ts:6
+msgid "Ruins"
+msgstr "Phế tích"
+
+#: cosmetics/pet/russet-fox-cub/metadata.ts:6
+msgid "Russet fox cub"
+msgstr "Cáo con nâu đỏ"
+
+#: equipments/weapon/weapon-saber/metadata.ts:6
+msgid "Saber"
+msgstr "Đao cong"
+
+#: cosmetics/top/sage-linen-vest/metadata.ts:6
+msgid "Sage linen vest"
+msgstr "Áo gile vải lanh xanh lá"
+
+#: cosmetics/shoes/sage-rain-boots/metadata.ts:6
+msgid "Sage rain boots"
+msgstr "Ủng mưa xanh lá"
+
+#: cosmetics/top/sage-ringer-tee/metadata.ts:6
+msgid "Sage ringer tee"
+msgstr "Áo thun viền xanh lá"
+
+#: cosmetics/top/boat-stripe-shirt/metadata.ts:6
+msgid "Sailboat stripe shirt"
+msgstr "Áo kẻ sọc thuyền buồm"
+
+#: cosmetics/bottom/sailor-button-shorts/metadata.ts:6
+msgid "Sailor button shorts"
+msgstr "Quần soóc khuy thủy thủ"
+
+#: cosmetics/hat/soft-sailor-cap/metadata.ts:6
+msgid "Sailor cap"
+msgstr "Mũ thủy thủ"
+
+#: cosmetics/top/sailor-sleeveless-top/metadata.ts:6
+msgid "Sailor sleeveless top"
+msgstr "Áo thủy thủ sát nách"
+
+#: skills/skill-sanctuary/metadata.ts:7
+msgid "Sanctuary"
+msgstr "Thánh vực"
+
+#: skills/skill-sand-blast/metadata.ts:7
+msgid "Sand blast"
+msgstr "Bão cát"
+
+#: enemies/sand-crab/metadata.ts:6
+msgid "Sand crab"
+msgstr "Cua cát"
+
+#: enemies/sand-spirit/metadata.ts:6
+msgid "Sand spirit"
+msgstr "Linh hồn cát"
+
+#: enemies/sand-wyrm/metadata.ts:6
+msgid "Sand wyrm"
+msgstr "Long trùng cát"
+
+#: enemies/dune-scorpion/metadata.ts:7
+msgid "Sand-colored scorpion in a watchful stance."
+msgstr "Bọ cạp màu cát với dáng vẻ cảnh giác."
+
+#: regions/tidal-shore/metadata.ts:7
+msgid "Sandy shore beside the sea."
+msgstr "Bãi cát ven biển."
+
+#: equipments/charm/charm-sapphire-ring/metadata.ts:6
+msgid "Sapphire ring"
+msgstr "Nhẫn ngọc bích"
+
+#: cosmetics/full_body/sari/metadata.ts:6
+msgid "Sari"
+msgstr "Sari"
+
+#: equipments/armor/armor-scale-coat/metadata.ts:6
+msgid "Scale coat"
+msgstr "Áo giáp vảy"
+
+#: cosmetics/top/scalloped-lace-vest/metadata.ts:6
+msgid "Scalloped lace vest"
+msgstr "Áo gile ren viền lượn sóng"
+
+#: cosmetics/hat/scalloped-party-hat/metadata.ts:6
+msgid "Scalloped party hat"
+msgstr "Mũ tiệc viền lượn sóng"
+
+#: cosmetics/bottom/scalloped-summer-shorts/metadata.ts:6
+msgid "Scalloped summer shorts"
+msgstr "Quần soóc gấu lượn sóng"
+
+#: cosmetics/pet/scarf-penguin/metadata.ts:6
+msgid "Scarf penguin"
+msgstr "Chim cánh cụt quàng khăn"
+
+#: equipments/armor/armor-scout-cape/metadata.ts:6
+msgid "Scout cape"
+msgstr "Áo choàng trinh sát"
+
+#: equipments/weapon/weapon-scythe/metadata.ts:6
+msgid "Scythe"
+msgstr "Lưỡi hái"
+
+#: cosmetics/accessory/seed-pocket-belt/metadata.ts:6
+msgid "Seed pouch belt"
+msgstr "Thắt lưng túi hạt giống"
+
+#: enemies/snow-yeti/metadata.ts:7
+msgid "Shaggy giant adapted to the coldest peaks."
+msgstr "Khổng lồ lông lá thích nghi với những đỉnh núi lạnh nhất."
+
+#: skills/skill-shard-burst/metadata.ts:7
+msgid "Shard burst"
+msgstr "Mưa tinh thể"
+
+#: enemies/cave-bat/metadata.ts:7
+msgid "Sharp-eared bat at home in dark caverns."
+msgstr "Dơi tai thính sống giữa hang động tối tăm."
+
+#: cosmetics/top/shawl-collar-cardigan/metadata.ts:6
+msgid "Shawl-collar cardigan"
+msgstr "Áo cardigan cổ khăn"
+
+#: cosmetics/background/shell-beach/metadata.ts:6
+msgid "Shell beach"
+msgstr "Bãi biển vỏ sò"
+
+#: skills/skill-shell-guard/metadata.ts:7
+msgid "Shell guard"
+msgstr "Giáp mai"
+
+#: cosmetics/bottom/scalloped-shell-skirt/metadata.ts:6
+msgid "Shell hem skirt"
+msgstr "Chân váy gấu vỏ sò"
+
+#: cosmetics/accessory/shell-charm-pendant/metadata.ts:6
+#: equipments/charm/charm-shell-pendant/metadata.ts:6
+msgid "Shell pendant"
+msgstr "Mặt dây vỏ sò"
+
+#: skills/skill-shock/metadata.ts:7
+msgid "Shock"
+msgstr "Điện giật"
+
+#: characters/hair/soft-crop/metadata.ts:6
+msgid "Short crop"
+msgstr "Tóc ngắn"
+
+#: characters/hair/curved-bob/metadata.ts:7
+msgid "Short hair with rounded ends framing the face."
+msgstr "Tóc ngắn với đuôi uốn ôm lấy khuôn mặt."
+
+#: equipments/weapon/weapon-shortbow/metadata.ts:6
+msgid "Shortbow"
+msgstr "Cung ngắn"
+
+#: characters/hair/shoulder-locs/metadata.ts:6
+msgid "Shoulder-length locs"
+msgstr "Tóc loc ngang vai"
+
+#: characters/hair/neat-side-part/metadata.ts:6
+msgid "Side part"
+msgstr "Tóc rẽ ngôi lệch"
+
+#: characters/hair/side-ponytail/metadata.ts:6
+msgid "Side ponytail"
+msgstr "Tóc đuôi ngựa lệch"
+
+#: cosmetics/bottom/side-button-skirt/metadata.ts:6
+msgid "Side-button skirt"
+msgstr "Chân váy khuy bên"
+
+#: equipments/charm/charm-silver-bell/metadata.ts:6
+msgid "Silver bell"
+msgstr "Chuông bạc"
+
+#: cosmetics/shoes/canvas-lace-shoes/metadata.ts:9
+msgid "Simple lace-up canvas shoes."
+msgstr "Giày vải buộc dây đơn giản."
+
+#: skills/skill-slam/metadata.ts:7
+msgid "Slam"
+msgstr "Đập mạnh"
+
+#: cosmetics/pet/sleepy-dormouse/metadata.ts:6
+msgid "Sleepy dormouse"
+msgstr "Sóc chuột ngái ngủ"
+
+#: equipments/weapon/weapon-sling/metadata.ts:6
+msgid "Sling"
+msgstr "Dây ném đá"
+
+#: enemies/lava-slug/metadata.ts:7
+msgid "Slow-moving slug leaving a glowing trail."
+msgstr "Sên chậm chạp để lại vệt sáng phía sau."
+
+#: skills/skill-slowing-shot/metadata.ts:7
+msgid "Slowing shot"
+msgstr "Phát bắn làm chậm"
+
+#: enemies/cloudling/metadata.ts:7
+msgid "Small cloud with a lively silver lining."
+msgstr "Mây nhỏ có viền bạc đầy sức sống."
+
+#: equipments/armor/armor-buckler/metadata.ts:8
+msgid "Small wooden shield with a metal rim."
+msgstr "Khiên gỗ nhỏ viền kim loại."
+
+#: cosmetics/pet/smiling-otter/metadata.ts:6
+msgid "Smiling otter"
+msgstr "Rái cá tươi cười"
+
+#: regions/frost-pass/metadata.ts:6
+msgid "Snow pass"
+msgstr "Đèo tuyết"
+
+#: enemies/snow-puff/metadata.ts:6
+msgid "Snow puff"
+msgstr "Bông tuyết"
+
+#: enemies/snow-yeti/metadata.ts:6
+msgid "Snow yeti"
+msgstr "Người tuyết"
+
+#: cosmetics/background/snowy-pines/metadata.ts:6
+msgid "Snowy pines"
+msgstr "Rừng thông tuyết"
+
+#: skills/skill-soothe/metadata.ts:7
+msgid "Soothe"
+msgstr "Xoa dịu"
+
+#: equipments/weapon/weapon-spear/metadata.ts:6
+msgid "Spear"
+msgstr "Giáo"
+
+#: equipments/weapon/weapon-spellbook/metadata.ts:6
+msgid "Spellbook"
+msgstr "Sách phép"
+
+#: cosmetics/pet/spiral-snail/metadata.ts:6
+msgid "Spiral snail"
+msgstr "Ốc sên xoắn"
+
+#: equipments/weapon/weapon-spirit-bell/metadata.ts:6
+msgid "Spirit bell"
+msgstr "Chuông linh hồn"
+
+#: cosmetics/accessory/split-rain-cape/metadata.ts:6
+msgid "Split rain cape"
+msgstr "Áo choàng mưa xẻ tà"
+
+#: skills/skill-spore-cloud/metadata.ts:7
+msgid "Spore cloud"
+msgstr "Mây bào tử"
+
+#: cosmetics/pet/spotted-fawn/metadata.ts:6
+msgid "Spotted fawn"
+msgstr "Nai con đốm"
+
+#: cosmetics/pet/sprout-sprite/metadata.ts:6
+msgid "Sprout sprite"
+msgstr "Tinh linh mầm cây"
+
+#: cosmetics/accessory/soft-square-glasses/metadata.ts:6
+msgid "Square glasses"
+msgstr "Kính vuông"
+
+#: cosmetics/accessory/star-backed-cape/metadata.ts:6
+msgid "Star cape"
+msgstr "Áo choàng ngôi sao"
+
+#: cosmetics/accessory/star-window-frames/metadata.ts:6
+msgid "Star glasses"
+msgstr "Kính ngôi sao"
+
+#: cosmetics/bottom/star-hem-pajamas/metadata.ts:6
+msgid "Star hem pajamas"
+msgstr "Quần ngủ gấu ngôi sao"
+
+#: cosmetics/accessory/star-charm-pendant/metadata.ts:6
+msgid "Star pendant"
+msgstr "Dây chuyền ngôi sao"
+
+#: equipments/charm/charm-star-prism/metadata.ts:6
+msgid "Star prism"
+msgstr "Lăng kính sao"
+
+#: cosmetics/top/star-lined-tunic/metadata.ts:6
+msgid "Star-lined tunic"
+msgstr "Áo tunic lót ngôi sao"
+
+#: cosmetics/shoes/star-tip-slippers/metadata.ts:6
+msgid "Star-tip slippers"
+msgstr "Dép ngôi sao"
+
+#: cosmetics/pet/starfish-pal/metadata.ts:6
+msgid "Starfish"
+msgstr "Sao biển"
+
+#: cosmetics/hat/stargazer-pointed-hat/metadata.ts:6
+msgid "Stargazer hat"
+msgstr "Mũ chóp ngắm sao"
+
+#: cosmetics/full_body/stargazer-robe-set/metadata.ts:6
+msgid "Stargazer robes"
+msgstr "Áo choàng ngắm sao"
+
+#: cosmetics/background/starlit-observatory/metadata.ts:6
+msgid "Starlit observatory"
+msgstr "Đài thiên văn đầy sao"
+
+#: equipments/armor/armor-starweave-robes/metadata.ts:6
+msgid "Starweave robes"
+msgstr "Áo dệt sao"
+
+#: cosmetics/full_body/station-conductor-set/metadata.ts:6
+msgid "Station conductor"
+msgstr "Trưởng tàu"
+
+#: skills/skill-sting/metadata.ts:7
+msgid "Sting"
+msgstr "Chích"
+
+#: cosmetics/accessory/stitched-rucksack/metadata.ts:6
+msgid "Stitched rucksack"
+msgstr "Ba lô đường chỉ"
+
+#: cosmetics/bottom/stitched-work-trousers/metadata.ts:6
+msgid "Stitched work trousers"
+msgstr "Quần làm việc đường chỉ"
+
+#: regions/cloud-court/metadata.ts:7
+msgid "Stone court high among the clouds."
+msgstr "Sân đá trên cao giữa những đám mây."
+
+#: enemies/stone-sentinel/metadata.ts:6
+msgid "Stone sentinel"
+msgstr "Vệ binh đá"
+
+#: enemies/storm-bird/metadata.ts:6
+msgid "Storm bird"
+msgstr "Chim bão"
+
+#: equipments/charm/charm-storm-brooch/metadata.ts:6
+msgid "Storm brooch"
+msgstr "Trâm bão tố"
+
+#: equipments/armor/armor-storm-jacket/metadata.ts:6
+msgid "Storm jacket"
+msgstr "Áo bão tố"
+
+#: equipments/weapon/weapon-storm-spear/metadata.ts:6
+msgid "Storm spear"
+msgstr "Giáo bão tố"
+
+#: cosmetics/bottom/straight-leg-chinos/metadata.ts:9
+msgid "Straight-leg trousers with side pockets."
+msgstr "Quần ống đứng có túi hai bên."
+
+#: skills/skill-strike/metadata.ts:7
+msgid "Strike"
+msgstr "Đòn đánh"
+
+#: skills/skill-flurry/metadata.ts:6
+msgid "Strikes an enemy twice."
+msgstr "Tấn công một kẻ địch hai lần."
+
+#: cosmetics/pet/striped-badger/metadata.ts:6
+msgid "Striped badger"
+msgstr "Lửng sọc"
+
+#: cosmetics/pet/striped-hamster/metadata.ts:6
+msgid "Striped hamster"
+msgstr "Chuột hamster sọc"
+
+#: cosmetics/hat/striped-sleep-cap/metadata.ts:6
+msgid "Striped nightcap"
+msgstr "Mũ ngủ kẻ sọc"
+
+#: cosmetics/top/striped-rugby-shirt/metadata.ts:6
+msgid "Striped rugby shirt"
+msgstr "Áo rugby kẻ sọc"
+
+#: cosmetics/accessory/striped-long-scarf/metadata.ts:6
+msgid "Striped scarf"
+msgstr "Khăn quàng kẻ sọc"
+
+#: cosmetics/top/breton-sleeveless-top/metadata.ts:6
+msgid "Striped sleeveless top"
+msgstr "Áo sát nách kẻ sọc"
+
+#: cosmetics/bottom/striped-sport-shorts/metadata.ts:6
+msgid "Striped sport shorts"
+msgstr "Quần soóc thể thao kẻ sọc"
+
+#: enemies/crystal-beetle/metadata.ts:7
+msgid "Sturdy beetle covered in thick crystal plates."
+msgstr "Bọ cánh cứng chắc khỏe được bao phủ bởi các mảng pha lê."
+
+#: equipments/weapon/weapon-sun-chakram/metadata.ts:6
+msgid "Sun chakram"
+msgstr "Luân đao mặt trời"
+
+#: equipments/charm/charm-sun-relic/metadata.ts:6
+msgid "Sun relic"
+msgstr "Thánh vật mặt trời"
+
+#: skills/skill-sunder/metadata.ts:7
+msgid "Sunder"
+msgstr "Phá giáp"
+
+#: cosmetics/background/sunflower-field/metadata.ts:6
+msgid "Sunflower field"
+msgstr "Cánh đồng hướng dương"
+
+#: equipments/armor/armor-sunplate/metadata.ts:6
+msgid "Sunplate"
+msgstr "Giáp mặt trời"
+
+#: cosmetics/hat/sun-ray-diadem/metadata.ts:6
+msgid "Sunray diadem"
+msgstr "Vương miện tia nắng"
+
+#: skills/skill-surge/metadata.ts:7
+msgid "Surge"
+msgstr "Bứt phá"
+
+#: skills/skill-sweep/metadata.ts:7
+msgid "Sweep"
+msgstr "Quét ngang"
+
+#: characters/hair/swept-wave/metadata.ts:6
+msgid "Swept wave"
+msgstr "Tóc gợn sóng"
+
+#: cosmetics/top/cream-pocket-tee/metadata.ts:8
+msgid "T-shirt"
+msgstr "Áo thun"
+
+#: skills/skill-tail-sweep/metadata.ts:7
+msgid "Tail sweep"
+msgstr "Quét đuôi"
+
+#: cosmetics/pet/tall-heron/metadata.ts:6
+msgid "Tall heron"
+msgstr "Diệc cao cổ"
+
+#: cosmetics/accessory/tambourine-sling/metadata.ts:6
+msgid "Tambourine sling"
+msgstr "Trống lục lạc đeo vai"
+
+#: characters/hair/tapered-coils/metadata.ts:6
+msgid "Tapered coils"
+msgstr "Tóc xoăn xù gọn hai bên"
+
+#: cosmetics/background/tea-garden/metadata.ts:6
+msgid "Tea garden"
+msgstr "Vườn trà"
+
+#: cosmetics/full_body/tea-house-set/metadata.ts:6
+msgid "Tea house set"
+msgstr "Bộ đồ quán trà"
+
+#: skills/skill-courage/metadata.ts:6
+#: skills/skill-rally/metadata.ts:6
+msgid "Temporarily increases all allies’ attack."
+msgstr "Tạm thời tăng sức tấn công cho tất cả đồng đội."
+
+#: skills/skill-regroup/metadata.ts:6
+msgid "Temporarily increases all allies’ defense."
+msgstr "Tạm thời tăng phòng thủ cho tất cả đồng đội."
+
+#: skills/skill-awaken/metadata.ts:6
+#: skills/skill-surge/metadata.ts:6
+msgid "Temporarily increases attack and speed."
+msgstr "Tạm thời tăng sức tấn công và tốc độ của bản thân."
+
+#: skills/skill-focus/metadata.ts:6
+msgid "Temporarily increases attack."
+msgstr "Tạm thời tăng sức tấn công của bản thân."
+
+#: skills/skill-iron-will/metadata.ts:6
+msgid "Temporarily increases defense and attack."
+msgstr "Tạm thời tăng phòng thủ và sức tấn công của bản thân."
+
+#: skills/skill-fortify/metadata.ts:6
+msgid "Temporarily increases defense."
+msgstr "Tạm thời tăng phòng thủ của bản thân."
+
+#: skills/skill-windstep/metadata.ts:6
+msgid "Temporarily increases speed and defense."
+msgstr "Tạm thời tăng tốc độ và phòng thủ của bản thân."
+
+#: skills/skill-haste/metadata.ts:6
+#: skills/skill-quickstep/metadata.ts:6
+msgid "Temporarily increases speed."
+msgstr "Tạm thời tăng tốc độ của bản thân."
+
+#: skills/skill-weaken/metadata.ts:6
+msgid "Temporarily lowers all enemies’ attack."
+msgstr "Tạm thời giảm sức tấn công của tất cả kẻ địch."
+
+#: skills/skill-expose/metadata.ts:6
+msgid "Temporarily lowers an enemy's defense."
+msgstr "Tạm thời giảm phòng thủ của một kẻ địch."
+
+#: skills/skill-impede/metadata.ts:6
+msgid "Temporarily slows down an enemy."
+msgstr "Tạm thời làm chậm một kẻ địch."
+
+#: cosmetics/background/terraced-garden/metadata.ts:6
+msgid "Terraced garden"
+msgstr "Vườn bậc thang"
+
+#: characters/hair/textured-crop/metadata.ts:6
+msgid "Textured crop"
+msgstr "Tóc crop tỉa lớp"
+
+#: equipments/charm/charm-thorn-amulet/metadata.ts:6
+msgid "Thorn amulet"
+msgstr "Bùa gai"
+
+#: equipments/armor/armor-thorn-cuirass/metadata.ts:6
+msgid "Thorn cuirass"
+msgstr "Giáp ngực gai"
+
+#: equipments/weapon/weapon-thorn-whip/metadata.ts:6
+msgid "Thorn whip"
+msgstr "Roi gai"
+
+#: enemies/thunder-roc/metadata.ts:6
+msgid "Thunder roc"
+msgstr "Đại bàng sấm"
+
+#: skills/skill-thunderclap/metadata.ts:7
+msgid "Thunderclap"
+msgstr "Sấm rền"
+
+#: cosmetics/pet/tidal-axolotl/metadata.ts:6
+msgid "Tidal axolotl"
+msgstr "Kỳ giông thủy triều"
+
+#: regions/tidal-shore/metadata.ts:6
+msgid "Tidal shore"
+msgstr "Bờ biển"
+
+#: cosmetics/background/tide-pools/metadata.ts:6
+msgid "Tide pools"
+msgstr "Vũng triều"
+
+#: enemies/tide-titan/metadata.ts:6
+msgid "Tide titan"
+msgstr "Khổng lồ thủy triều"
+
+#: equipments/charm/charm-herb-pouch/metadata.ts:8
+msgid "Tied cloth pouch filled with herbs."
+msgstr "Túi vải buộc kín đựng đầy thảo dược."
+
+#: cosmetics/bottom/tiered-ribbon-skirt/metadata.ts:6
+msgid "Tiered ribbon skirt"
+msgstr "Chân váy ruy băng nhiều tầng"
+
+#: enemies/capling/metadata.ts:7
+msgid "Tiny mushroom hopping through the undergrowth."
+msgstr "Nấm tí hon nhảy nhót trong bụi rậm."
+
+#: cosmetics/top/toggled-rain-jacket/metadata.ts:6
+msgid "Toggle rain jacket"
+msgstr "Áo mưa khuy móc"
+
+#: equipments/charm/charm-tortoise-charm/metadata.ts:6
+msgid "Tortoise charm"
+msgstr "Bùa rùa"
+
+#: equipments/armor/armor-tower-shield/metadata.ts:6
+msgid "Tower shield"
+msgstr "Khiên tháp"
+
+#: enemies/crystal-golem/metadata.ts:7
+msgid "Towering guardian carved from living crystal."
+msgstr "Vệ thần cao lớn được đẽo từ pha lê sống."
+
+#: enemies/tide-titan/metadata.ts:7
+msgid "Towering sea guardian shaped by waves and coral."
+msgstr "Vệ thần biển cả cao lớn được tạo nên từ sóng và san hô."
+
+#: cosmetics/accessory/round-trail-canteen/metadata.ts:6
+msgid "Trail canteen"
+msgstr "Bình nước dã ngoại"
+
+#: cosmetics/accessory/short-trail-cape/metadata.ts:6
+msgid "Trail cape"
+msgstr "Áo choàng dã ngoại"
+
+#: equipments/charm/charm-trail-compass/metadata.ts:6
+msgid "Trail compass"
+msgstr "La bàn dẫn đường"
+
+#: cosmetics/full_body/trail-scout-set/metadata.ts:6
+msgid "Trail scout"
+msgstr "Hướng đạo sinh"
+
+#: cosmetics/bottom/trail-skort/metadata.ts:6
+msgid "Trail skort"
+msgstr "Quần váy dã ngoại"
+
+#: equipments/armor/armor-travel-coat/metadata.ts:6
+msgid "Travel coat"
+msgstr "Áo lữ hành"
+
+#: equipments/weapon/weapon-trident/metadata.ts:6
+msgid "Trident"
+msgstr "Đinh ba"
+
+#: cosmetics/pet/tufted-alpaca/metadata.ts:6
+msgid "Tufted alpaca"
+msgstr "Lạc đà alpaca bông xù"
+
+#: cosmetics/pet/tufted-mouse/metadata.ts:6
+msgid "Tufted mouse"
+msgstr "Chuột chỏm lông"
+
+#: cosmetics/hat/tulip-petal-hat/metadata.ts:6
+msgid "Tulip petal hat"
+msgstr "Mũ cánh tulip"
+
+#: cosmetics/top/tulip-petal-jacket/metadata.ts:6
+msgid "Tulip petal jacket"
+msgstr "Áo khoác cánh tulip"
+
+#: cosmetics/bottom/tulip-wrap-shorts/metadata.ts:6
+msgid "Tulip wrap shorts"
+msgstr "Quần soóc vạt tulip"
+
+#: equipments/weapon/weapon-twin-daggers/metadata.ts:6
+msgid "Twin daggers"
+msgstr "Song dao"
+
+#: characters/hair/twin-puffs/metadata.ts:6
+msgid "Twin puffs"
+msgstr "Tóc xù buộc hai bên"
+
+#: labels.ts:6
+msgid "Uncommon"
+msgstr "Ít gặp"
+
+#: skills/skill-vigor/metadata.ts:7
+msgid "Vigor"
+msgstr "Sinh lực"
+
+#: equipments/weapon/weapon-void-grimoire/metadata.ts:6
+msgid "Void grimoire"
+msgstr "Ma thư hư không"
+
+#: enemies/grove-guardian/metadata.ts:8
+msgid "Walking ancient tree crowned in leaves."
+msgstr "Thân cây biết đi với tán lá trên đầu."
+
+#: enemies/walking-armor/metadata.ts:6
+msgid "Walking armor"
+msgstr "Giáp biết đi"
+
+#: enemies/ruin-wisp/metadata.ts:7
+msgid "Wandering light drawn to forgotten ruins."
+msgstr "Ánh sáng lang thang bị thu hút tới những phế tích bị lãng quên."
+
+#: equipments/weapon/weapon-war-hammer/metadata.ts:6
+msgid "War hammer"
+msgstr "Búa chiến"
+
+#: skills/skill-ward/metadata.ts:7
+msgid "Ward"
+msgstr "Hộ vệ"
+
+#: equipments/charm/charm-ward-stone/metadata.ts:6
+msgid "Ward stone"
+msgstr "Đá hộ mệnh"
+
+#: skills/skill-warding-song/metadata.ts:7
+msgid "Warding song"
+msgstr "Khúc ca hộ vệ"
+
+#: enemies/cactus-sentry/metadata.ts:7
+msgid "Watchful cactus with a prickly temper."
+msgstr "Xương rồng cảnh giác với tính khí gai góc."
+
+#: cosmetics/background/waterfall-cove/metadata.ts:6
+msgid "Waterfall cove"
+msgstr "Vịnh thác nước"
+
+#: cosmetics/top/waxed-trail-jacket/metadata.ts:6
+msgid "Waxed trail jacket"
+msgstr "Áo khoác dã ngoại vải sáp"
+
+#: skills/skill-weaken/metadata.ts:7
+msgid "Weaken"
+msgstr "Suy yếu"
+
+#: regions/quiet-ruins/metadata.ts:7
+msgid "Weathered stone remains of a forgotten place."
+msgstr "Những tàn tích đá phong hóa của một nơi đã bị lãng quên."
+
+#: enemies/wind-sprite/metadata.ts:6
+msgid "Wind sprite"
+msgstr "Tinh linh gió"
+
+#: skills/skill-windstep/metadata.ts:7
+msgid "Windstep"
+msgstr "Bước gió"
+
+#: equipments/charm/charm-wolf-fang/metadata.ts:6
+msgid "Wolf fang"
+msgstr "Nanh sói"
+
+#: equipments/weapon/weapon-practice-sword/metadata.ts:8
+msgid "Wooden sword for practicing the basics."
+msgstr "Kiếm gỗ để luyện tập các động tác cơ bản."
+
+#: cosmetics/pet/woolly-lamb/metadata.ts:6
+msgid "Woolly lamb"
+msgstr "Cừu con lông xù"
+
+#: equipments/weapon/weapon-worldtree-staff/metadata.ts:6
+msgid "Worldtree staff"
+msgstr "Trượng cổ thụ"
+
+#: cosmetics/hat/woven-flat-hat/metadata.ts:6
+msgid "Woven flat hat"
+msgstr "Mũ đan vành phẳng"
+
+#: cosmetics/bottom/wrap-front-skirt/metadata.ts:6
+msgid "Wrap skirt"
+msgstr "Chân váy quấn"
+
+#: enemies/lava-drake/metadata.ts:7
+msgid "Young volcanic dragon coated in molten scales."
+msgstr "Rồng núi lửa non trẻ với lớp vảy nóng chảy."
+
+#: cosmetics/full_body/yukata/metadata.ts:6
+msgid "Yukata"
+msgstr "Yukata"
+
+#: cosmetics/bottom/zigzag-knit-shorts/metadata.ts:6
+msgid "Zigzag knit shorts"
+msgstr "Quần soóc len zíc zắc"
+
+#: cosmetics/top/zip-trail-vest/metadata.ts:6
+msgid "Zip trail vest"
+msgstr "Áo gile dã ngoại khóa kéo"

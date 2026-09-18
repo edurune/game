@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <g data-plane="hair-back" data-anchor="head" data-color="hair" fill="#514543" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M190 65 Q190 40 212 42 Q237 47 240 80 Q240 99 230 119 Q218 143 242 165 Q224 176 211 161 Q197 146 206 120 Q219 93 214 75 Q211 65 199 70Z"/>
+    <path d="M222 71 Q230 93 218 119 Q208 141 221 155" fill="none"/>
+  </g>
+  <g data-plane="hair-front" data-anchor="head" data-color="hair" fill="#514543" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M109 110 C99 73 127 50 160 51 C190 49 219 71 211 111 L201 101 L197 82 Q178 82 160 73 Q142 82 123 82 L119 103Z"/>
+    <path d="M130 67 Q148 57 171 60 M178 61 Q189 64 196 73" fill="none"/>
+  </g>
+</svg>

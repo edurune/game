@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" data-rig="brand-favicon-v1">
+  <g data-plane="brand" data-anchor="root" stroke="#303047" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#9bb9a2" d="M5 28V10L10 5L16 3L22 5L27 10V28Z"/>
+    <path fill="#303047" d="M10 27V13L16 9L22 13V27Z"/>
+    <path fill="#f2d99b" stroke="none" d="M16 12L20 18L16 24L12 18Z"/>
+    <path fill="#f4eddc" d="M3 26L9 25L16 28L23 25L29 26V29L23 28L16 30L9 28L3 29Z"/>
+  </g>
+</svg>

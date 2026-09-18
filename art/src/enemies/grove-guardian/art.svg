@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-enemy-v1">
+  <defs><clipPath id="body-clip"><path d="M103 111 Q88 171 99 226 L88 255 Q116 271 154 266 Q198 273 225 253 L216 219 Q229 171 210 109Z"/></clipPath></defs>
+  <g data-plane="rear" data-anchor="root" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M211 162 Q246 159 257 190 L270 230 Q271 245 258 249 Q243 252 237 236 L220 208 L199 199Z"/>
+    <path d="M230 178 L248 141 L269 136 L268 122 L243 125 L229 146 L224 115 L210 111 L209 165Z"/>
+    <path d="M109 248 L94 271 Q75 271 72 280 H135 L150 252Z M182 250 L191 280 H253 Q250 267 225 267 L213 243Z"/>
+    <path d="M242 139 Q255 105 282 111 Q280 138 242 139Z M213 127 Q188 101 200 83 Q226 96 213 127Z" fill="#9bb9a2"/>
+  </g>
+  <g data-plane="body" data-anchor="root" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g id="body-surface">
+      <g clip-path="url(#body-clip)" stroke="none">
+        <rect width="320" height="320"/>
+        <path d="M192 118 Q211 170 198 219 L205 255 L184 267 Q209 265 225 253 L216 219 Q229 171 210 109Z" fill="#a5775d"/>
+      </g>
+      <path d="M103 111 Q88 171 99 226 L88 255 Q116 271 154 266 Q198 273 225 253 L216 219 Q229 171 210 109Z" fill="none"/>
+    </g>
+    <path d="M103 111 Q87 108 89 93 Q74 91 78 77 Q84 61 104 68 Q105 45 126 46 Q141 43 151 58 Q162 38 182 48 Q198 48 199 65 Q221 58 230 76 Q242 89 227 100 Q232 117 211 123 Q194 119 178 126 Q155 116 137 125 Q118 115 103 121Z" fill="#9bb9a2"/>
+    <path d="M94 94 Q113 102 129 89 Q146 105 165 89 Q183 106 201 92 Q210 107 229 94" fill="none"/>
+    <path d="M118 133 L114 149 M181 140 L185 159 M154 202 L147 233 L155 251 M116 218 L113 239 M188 220 L192 243" fill="none"/>
+    <path d="M109 164 L132 170 M149 169 L174 160" fill="none"/>
+    <g id="eyes" fill="#303047" stroke="none"><ellipse cx="124" cy="183" rx="6" ry="9"/><ellipse cx="161" cy="181" rx="6" ry="9"/></g>
+    <path d="M129 207 Q141 200 153 207" fill="none"/>
+    <path d="M163 82 Q167 59 184 58 Q190 77 163 82Z" fill="#d5dfb5"/>
+  </g>
+  <g data-plane="front" data-anchor="root" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M102 173 Q78 171 69 191 L50 231 Q46 247 61 253 Q75 258 83 243 L108 214"/>
+    <path d="M61 218 L79 226 M66 235 L61 246" fill="none"/>
+    <path d="M82 176 Q58 157 54 138 L40 139 Q38 166 68 194Z"/>
+    <path d="M53 150 Q69 121 90 129 Q84 153 53 150Z" fill="#d5dfb5"/>
+  </g>
+</svg>

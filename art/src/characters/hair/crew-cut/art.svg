@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <g data-plane="hair-front" data-anchor="head" data-color="hair" fill="#514543" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 106 Q103 85 115 69 Q125 51 147 51 L151 48 L161 51 L171 48 L182 53 Q201 57 208 75 Q216 89 210 106 L202 102 L200 83 Q180 76 160 78 Q140 76 120 83 L118 102Z"/>
+    <path d="M128 65 L131 61 M145 61 V57 M161 61 V57 M178 63 L176 59 M193 69 L190 65" fill="none"/>
+  </g>
+</svg>

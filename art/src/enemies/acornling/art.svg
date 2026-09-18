@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-enemy-v1">
+  <defs><clipPath id="body-clip"><path d="M106 171 Q160 146 213 174 L208 223 Q202 249 163 270 Q117 250 109 225Z"/></clipPath></defs>
+  <g data-plane="rear" data-anchor="root" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M199 207 Q224 209 233 230 Q234 239 226 242 Q217 243 214 232 L195 226Z"/>
+    <path d="M132 254 L126 271 Q109 272 112 280 H146 L151 255Z M178 253 L183 274 Q201 271 207 280 H174 L162 258Z"/>
+  </g>
+  <g data-plane="body" data-anchor="root" fill="#e1bc8b" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g id="body-surface">
+      <g clip-path="url(#body-clip)" stroke="none">
+        <rect width="320" height="320"/>
+        <path d="M193 179 L189 222 Q184 244 163 270 Q199 250 208 226 L213 179Z" fill="#bd8b69"/>
+      </g>
+      <path d="M106 171 Q160 146 213 174 L208 223 Q202 249 163 270 Q117 250 109 225Z" fill="none"/>
+    </g>
+    <path d="M96 178 Q101 126 155 123 Q207 118 223 168 L219 183 Q154 167 101 188Z" fill="#bd8b69"/>
+    <path d="M154 124 Q143 109 150 99 Q160 94 164 103 L168 123" fill="#758d80"/>
+    <path d="M116 153 L125 163 M140 143 L149 153 M164 141 L173 151 M186 150 L195 160" fill="none"/>
+    <g id="eyes" fill="#303047" stroke="none"><ellipse cx="130" cy="207" rx="5" ry="7"/><ellipse cx="168" cy="203" rx="5" ry="7"/></g>
+    <path d="M119 193 L136 196 M158 192 L176 188 M140 231 Q148 226 157 230" fill="none"/>
+  </g>
+  <g data-plane="front" data-anchor="root" fill="#e1bc8b" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M115 218 L100 237 Q91 243 85 235 Q80 229 89 222 L104 208"/>
+  </g>
+</svg>

@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" data-rig="battle-scene-v1">
+  <defs>
+    <clipPath id="canvas"><path d="M0 0H960V540H0Z"/></clipPath>
+    <!-- Authored equipment geometry, in its original palette, rotated into each grip. -->
+    <g id="weapon-longsword" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="151" y="203" width="18" height="61" rx="4" fill="#bd8b69"/>
+      <path d="M144 196V70L160 34L176 70V196L160 209Z" fill="#c5cede"/>
+      <path d="M160 60V187M153 219H167M153 234H167M153 249H167" fill="none"/>
+      <path d="M119 198Q160 208 201 198L198 213Q160 224 122 213Z" fill="#f2d99b"/>
+      <circle cx="160" cy="273" r="11" fill="#f2d99b"/>
+    </g>
+    <g id="weapon-frost-scepter" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="152" y="116" width="16" height="164" rx="5" fill="#747da7"/>
+      <path d="M160 35L190 70L182 111L160 135L138 111L130 70Z" fill="#c5cede"/>
+      <path d="M160 35L148 76L160 135L174 76Z" fill="#f4eddc"/>
+      <path d="M130 70L148 76L174 76L190 70" fill="none"/>
+      <path d="M126 104L145 117H175L194 104L184 136H136Z" fill="#9b9fbc"/>
+      <path d="M150 225H170M150 244H170M150 263H170 M110 56L102 49 M204 91L213 89" fill="none"/>
+    </g>
+    <symbol id="grove-guardian" viewBox="0 0 320 320">
+      <g fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M211 162Q246 159 257 190L270 230Q271 245 258 249Q243 252 237 236L220 208L199 199Z M230 178L248 141L269 136L268 122L243 125L229 146L224 115L210 111L209 165Z"/>
+        <path d="M109 248L94 271Q75 271 72 280H135L150 252Z M182 250L191 280H253Q250 267 225 267L213 243Z"/>
+        <path d="M242 139Q255 105 282 111Q280 138 242 139Z M213 127Q188 101 200 83Q226 96 213 127Z" fill="#9bb9a2"/>
+        <path d="M103 111Q88 171 99 226L88 255Q116 271 154 266Q198 273 225 253L216 219Q229 171 210 109Z"/>
+        <path d="M103 111Q87 108 89 93Q74 91 78 77Q84 61 104 68Q105 45 126 46Q141 43 151 58Q162 38 182 48Q198 48 199 65Q221 58 230 76Q242 89 227 100Q232 117 211 123Q194 119 178 126Q155 116 137 125Q118 115 103 121Z" fill="#9bb9a2"/>
+        <path d="M94 94Q113 102 129 89Q146 105 165 89Q183 106 201 92Q210 107 229 94 M118 133L114 149 M181 140L185 159 M154 202L147 233L155 251 M116 218L113 239 M188 220L192 243 M109 164L132 170 M149 169L174 160" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="124" cy="183" rx="6" ry="9"/><ellipse cx="161" cy="181" rx="6" ry="9"/></g>
+        <path d="M129 207Q141 200 153 207" fill="none"/>
+        <path d="M163 82Q167 59 184 58Q190 77 163 82Z" fill="#d5dfb5"/>
+        <path d="M102 173Q78 171 69 191L50 231Q46 247 61 253Q75 258 83 243L108 214 M61 218L79 226 M66 235L61 246"/>
+        <path d="M82 176Q58 157 54 138L40 139Q38 166 68 194Z"/>
+        <path d="M53 150Q69 121 90 129Q84 153 53 150Z" fill="#d5dfb5"/>
+      </g>
+    </symbol>
+    <symbol id="crystal-golem" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <g fill="#747da7"><path d="M109 239L86 280H140L151 244 M179 242L187 280H247L222 237Z M206 148L256 142L279 182L269 235L242 249L213 210"/></g>
+        <g fill="#9b9fbc"><path d="M225 152L226 95L251 69L272 112L255 152Z M105 111L121 71L166 48L200 78L214 135L230 186L217 242L164 264L106 240L88 183Z"/>
+          <path d="M182 153L211 138L230 186L217 242L184 255L192 205Z" fill="#747da7" stroke="none"/>
+          <path d="M121 71L155 113L166 48 M155 113L200 78 M155 113L145 164L88 183 M145 164L180 190L164 264 M180 190L230 186" fill="none"/>
+          <path d="M106 142L133 149L130 162L106 157Z M154 150L180 137L180 155L157 164Z" fill="#303047" stroke="none"/>
+          <path d="M129 188L149 188" fill="none"/>
+          <path d="M107 158L67 153L43 184L38 229L62 251L88 241L104 207Z"/>
+          <path d="M44 186L73 197L67 153 M73 197L62 251" fill="none"/>
+        </g>
+      </g>
+    </symbol>
+    <symbol id="moss-slime" viewBox="0 0 320 320">
+      <g fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M77 250C80 230 91 225 92 209C94 177 113 156 145 159C181 148 208 166 215 202C219 225 245 233 247 254C250 275 229 280 209 280H111C87 280 67 271 77 250Z"/>
+        <path d="M106 190Q114 176 130 177 M123 241Q132 235 142 241" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="113" cy="220" rx="5" ry="7"/><ellipse cx="151" cy="218" rx="5" ry="7"/></g>
+        <path d="M141 159Q121 148 127 133Q149 130 153 154Q158 136 177 138Q180 154 157 162" fill="#d5dfb5"/>
+      </g>
+    </symbol>
+    <symbol id="ember-imp" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <g fill="#bd8b69"><path d="M178 239Q229 267 238 229L233 213L250 216L261 238L247 236Q235 285 181 255Z M127 245L110 280H141L153 251 M168 248L182 280H214L192 249 M186 189Q216 186 223 217L211 228L190 207Z"/></g>
+        <g fill="#d39b84"><path d="M107 161L102 122L130 140Q157 128 182 143L205 119L198 164Q210 188 187 203L198 241Q183 263 151 260Q121 260 107 239L120 203Q92 190 107 161Z"/>
+          <path d="M140 210L165 207L180 240Q161 252 133 240Z" fill="#f2d99b"/>
+          <g fill="#303047" stroke="none"><ellipse cx="124" cy="172" rx="5" ry="7"/><ellipse cx="162" cy="168" rx="5" ry="7"/></g>
+          <path d="M132 190L140 198L146 191L152 198L160 187 M114 157L133 162 M152 156L172 150" fill="#f4eddc"/>
+          <path d="M121 204L100 224Q84 231 79 220Q80 208 96 204L110 188"/>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <g clip-path="url(#canvas)">
+    <g data-plane="backdrop" data-anchor="root">
+      <path d="M0 0H960V540H0Z" fill="#f6e3da"/>
+      <path d="M0 0H543L474 344L0 477Z" fill="#f2d99b"/>
+      <path d="M543 0H960V475L474 344Z" fill="#c2cbe4"/>
+      <g fill="#f4eddc">
+        <path d="M470 334L341 0H409Z M468 335L0 69V0Z M470 335L0 288V225Z"/>
+        <path d="M486 332L735 0H816Z M486 334L960 98V167Z M486 335L960 320V362Z"/>
+      </g>
+      <path d="M0 221L52 190L96 218L130 181L184 214L213 173L259 212L292 178L327 233V435H0Z" fill="#d5dfb5"/>
+      <path d="M706 278V174H728V147H798V174H777V278H854V206H836V180H918V206H903V315H960V431H673Z" fill="#9b9fbc"/>
+      <path d="M0 398Q247 333 473 385Q720 335 960 400V540H0Z" fill="#e8c0ae"/>
+      <g fill="none" stroke="#303047" stroke-width="4" stroke-linecap="round">
+        <path d="M28 75L56 87M79 23L92 49M899 63L875 77M941 239L918 242"/>
+      </g>
+      <!-- Tiny raised islands put the monster teams well behind the close-up. -->
+      <g stroke="#303047" stroke-width="2.5" stroke-linejoin="round">
+        <path d="M60 118L98 108L154 113L168 125L115 137L74 129Z" fill="#d5dfb5"/>
+        <path d="M74 129L115 137L147 129L133 151L115 147L99 158Z" fill="#bd8b69"/>
+        <path d="M258 78L277 69L321 75L332 84L294 94L267 88Z" fill="#d5dfb5"/>
+        <path d="M267 88L294 94L321 87L307 108L292 104L284 112Z" fill="#bd8b69"/>
+        <path d="M789 119L818 110L884 114L913 126L860 140L805 131Z" fill="#9b9fbc"/>
+        <path d="M805 131L860 140L890 133L877 153L861 151L848 163Z" fill="#747da7"/>
+        <path d="M630 86L649 75L693 82L709 94L667 104L638 96Z" fill="#9b9fbc"/>
+        <path d="M638 96L667 104L696 97L681 117L667 113L656 121Z" fill="#747da7"/>
+      </g>
+      <use href="#grove-guardian" x="-180" y="-5" width="135" height="135" transform="scale(-1 1)"/>
+      <use href="#moss-slime" x="-350" y="-14" width="110" height="110" transform="scale(-1 1)"/>
+      <use href="#crystal-golem" x="780" y="-5" width="135" height="135"/>
+      <use href="#ember-imp" x="610" y="-15" width="115" height="115"/>
+    </g>
+    <g data-plane="terrain" data-anchor="root">
+      <g transform="translate(0 74)" stroke="#303047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M489 78L452 186L481 182L460 273L512 158L481 164L510 78Z" fill="#f4eddc"/>
+        <path d="M448 302L430 294M519 302L537 290M485 321V343" fill="none"/>
+      </g>
+    </g>
+    <g data-plane="foreground" data-anchor="root" stroke="#303047" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Head wider than torso, as in the round-traveler rig. Each weapon hand belongs to one continuous foreground arm. -->
+      <g transform="translate(-22 -46.64) scale(1.12)">
+        <path d="M193 423L164 480L149 531Q149 546 165 549Q179 549 185 534L225 454Z" fill="#bd8b69"/>
+        <path d="M223 381L282 390L305 416L331 452L319 570H150L164 444L184 405Z" fill="#9bb9a2"/>
+        <path d="M205 383Q185 379 169 399L152 437L182 451L220 415" fill="#9bb9a2"/>
+        <path d="M295 347L281 395L309 416L336 396L341 355Z" fill="#bd8b69" transform="translate(-55 0)"/>
+        <path d="M286 390L309 404L335 390" fill="none" transform="translate(-55 0)"/>
+        <g transform="translate(-55 22)">
+        <path d="M315 184Q371 180 391 239Q400 256 393 273L405 287Q408 293 399 297L393 299Q385 350 339 366Q298 378 264 350Q233 329 233 291L229 269Q228 209 277 190Q297 182 315 184Z" fill="#bd8b69"/>
+        <path d="M235 259L225 233L230 214L226 193L247 199L258 180L280 187L298 169L319 181L341 173L356 191L379 191L397 214L401 235L393 255L379 249L363 233L350 245L333 234L315 245L298 233L280 245L264 234L253 256L249 285L235 286Z" fill="#514543"/>
+        <path d="M245 275Q225 258 217 274Q211 289 228 303L244 305" fill="#bd8b69"/>
+        <path d="M225 281L236 289 M259 216L271 211 M300 204L314 199 M345 262L363 268 M379 262L390 260" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="356" cy="282" rx="6" ry="8"/><ellipse cx="386" cy="279" rx="3.5" ry="6"/></g>
+        <path d="M351 323Q367 333 380 316" fill="none"/>
+        </g>
+        <path d="M198 518L221 529L243 518V546L220 554L198 544Z" fill="none"/>
+        <use href="#weapon-longsword" transform="translate(181 425) rotate(-20) scale(1.3) translate(-160 -234)"/>
+        <path d="M301 433L309 455Q285 488 263 493L178 461L177 427L249 450L276 415Z" fill="#bd8b69"/>
+        <path d="M280 400Q307 398 322 427L308 453L281 461L258 433Z" fill="#9bb9a2"/>
+        <path d="M157 410Q155 396 169 398L184 407Q196 398 207 411L213 433Q218 447 204 455L186 462L163 450Q154 443 153 431Z" fill="#bd8b69"/>
+        <path d="M157 420L181 429 M158 431L180 439 M193 414L200 429" fill="none" stroke-width="3.5"/>
+      </g>
+      <g transform="translate(982 -46.64) scale(-1.12 1.12)">
+        <path d="M251 219Q218 211 206 237Q180 258 192 288Q163 313 182 344Q159 375 177 406Q158 440 177 469L213 483L272 347Z" fill="#514543" transform="translate(-55 22)"/>
+        <path d="M193 423L164 480L149 531Q149 546 165 549Q179 549 185 534L225 454Z" fill="#e6b18a"/>
+        <path d="M223 381L282 390L305 416L331 452L319 570H150L164 444L184 405Z" fill="#9b9fbc"/>
+        <path d="M205 383Q185 379 169 399L152 437L182 451L220 415" fill="#9b9fbc"/>
+        <path d="M295 347L281 395L309 416L336 396L341 355Z" fill="#e6b18a" transform="translate(-55 0)"/>
+        <path d="M286 390L309 404L335 390" fill="none" transform="translate(-55 0)"/>
+        <g transform="translate(-55 22)">
+        <path d="M315 184Q371 180 391 239Q400 256 393 273L405 287Q408 293 399 297L393 299Q385 350 339 366Q298 378 264 350Q233 329 233 291L229 269Q228 209 277 190Q297 182 315 184Z" fill="#e6b18a"/>
+        <path d="M235 259Q220 243 231 219Q227 187 259 178Q283 160 309 177Q340 166 362 185Q388 184 399 212L398 244Q363 245 344 215Q323 238 286 240L267 250L249 285L235 286Z" fill="#514543"/>
+        <path d="M245 275Q225 258 217 274Q211 289 228 303L244 305" fill="#e6b18a"/>
+        <path d="M225 281L236 289 M251 219Q258 198 279 195 M358 198Q376 204 383 220 M345 262L363 268 M379 262L390 260" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="356" cy="282" rx="6" ry="8"/><ellipse cx="386" cy="279" rx="3.5" ry="6"/></g>
+        <path d="M351 323Q367 333 380 316" fill="none"/>
+        </g>
+        <path d="M279 391L310 414L335 390L345 406L315 435L280 409L263 411Z" fill="#f2d99b" transform="translate(-55 0)"/>
+        <path d="M220 518L232 537L218 554L206 535Z" fill="none"/>
+        <use href="#weapon-frost-scepter" transform="translate(181 425) rotate(-24) scale(1.15) translate(-160 -236)"/>
+        <path d="M301 433L309 455Q285 488 263 493L178 461L177 427L249 450L276 415Z" fill="#e6b18a"/>
+        <path d="M280 400Q307 398 322 427L308 453L281 461L258 433Z" fill="#9b9fbc"/>
+        <path d="M157 410Q155 396 169 398L184 407Q196 398 207 411L213 433Q218 447 204 455L186 462L163 450Q154 443 153 431Z" fill="#e6b18a"/>
+        <path d="M157 420L181 429 M158 431L180 439 M193 414L200 429" fill="none" stroke-width="3.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

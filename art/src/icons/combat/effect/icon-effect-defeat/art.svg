@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" data-rig="combat-ui-icon-v1"><g data-plane="icon" data-anchor="root" stroke="#303047" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M16 4C9 4 5 8 5 14V17Q5 21 10 22V26Q10 28 12 28H20Q22 28 22 26V22Q27 21 27 17V14C27 8 23 4 16 4Z" fill="#f4eddc"/>
+<path d="M10 24H22V26Q22 28 20 28H12Q10 28 10 26Z" fill="#e1bc8b"/>
+<path d="M14 25V28M18 25V28" fill="none"/>
+<ellipse cx="11" cy="15.5" rx="3" ry="3.5" fill="#303047" stroke="none"/>
+<ellipse cx="21" cy="15.5" rx="3" ry="3.5" fill="#303047" stroke="none"/>
+<path d="M16 19 14 22H18Z" fill="#303047" stroke="none"/>
+</g></svg>

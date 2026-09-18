@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <g data-plane="hair-back" data-anchor="head" data-color="hair" fill="#514543" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 42 Q81 29 94 33 Q104 23 115 34 Q131 31 133 46 Q145 55 137 68 Q141 84 126 87 Q119 100 106 93 Q94 102 84 91 Q68 92 68 77 Q56 66 65 55 Q65 42 80 42Z"/>
+    <path d="M187 46 Q189 31 205 34 Q216 23 226 33 Q239 29 240 42 Q255 42 255 55 Q264 66 252 77 Q252 92 236 91 Q226 102 214 93 Q201 100 194 87 Q179 84 183 68 Q175 55 187 46Z"/>
+    <path d="M81 57 Q90 51 96 59 M109 77 Q116 69 122 76 M213 49 Q222 43 228 52 M232 70 Q241 68 243 76" fill="none"/>
+  </g>
+  <g data-plane="hair-front" data-anchor="head" data-color="hair" fill="#514543" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 110 Q100 83 118 65 Q134 50 160 52 Q186 50 202 65 Q220 83 210 110 L201 102 L196 85 Q174 85 160 73 Q146 85 124 85 L119 102Z"/>
+    <path d="M160 57 V72 M119 73 Q129 65 143 64 M201 73 Q191 65 177 64" fill="none"/>
+  </g>
+</svg>

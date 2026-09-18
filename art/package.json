@@ -1,0 +1,50 @@
+{
+  "name": "@edurune/art",
+  "version": "0.1.0",
+  "description": "EduRune artwork, music, metadata, translations, and React renderers.",
+  "homepage": "https://github.com/edurune/game/tree/main/art#readme",
+  "bugs": {
+    "url": "https://github.com/edurune/game/issues"
+  },
+  "license": "SEE LICENSE IN README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edurune/game.git",
+    "directory": "art"
+  },
+  "files": [
+    "src",
+    "lingui.config.ts",
+    "LICENSE",
+    "LICENSE-CC-BY-NC-SA-4.0"
+  ],
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./rendering": "./src/rendering.ts",
+    "./assets": "./src/assets.ts",
+    "./catalog": "./src/catalog.ts",
+    "./labels": "./src/labels.ts",
+    "./preload": "./src/preload.ts",
+    "./locales/*": "./src/locales/*/messages.ts"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "i18n:extract": "lingui extract --config lingui.config.ts --clean",
+    "i18n:compile": "lingui compile --config lingui.config.ts --typescript"
+  },
+  "dependencies": {
+    "@babel/core": "^7.28.0",
+    "@lingui/babel-plugin-lingui-macro": "6.7.0",
+    "@lingui/conf": "6.7.0",
+    "@lingui/core": "6.7.0",
+    "@xmldom/xmldom": "^0.9.12"
+  },
+  "peerDependencies": {
+    "react": "^19.3.0"
+  }
+}

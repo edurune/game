@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-effect-v1">
+  <g data-plane="front" data-anchor="root" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M101 149C105 108 154 89 190 112M218 153C222 195 174 225 136 208" fill="none"/>
+    <path d="M163 119Q165 151 195 163 162 163 149 195 151 163 121 151 153 151 163 119Z" fill="#9b9fbc"/>
+    <path d="m205 110 9 10-11 10-8-10ZM105 190l9 9-10 11-9-11Z" fill="#f4eddc"/>
+  </g>
+</svg>

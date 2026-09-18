@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <g data-plane="arm-far" data-anchor="shoulder-far" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M127 163 Q116 161 111 176 L99 213 L117 220 L137 179Z" stroke="none"/>
+    <path d="M117 220 L137 179 L127 163 Q116 161 111 176 L99 213" fill="none"/>
+  </g>
+  <g data-plane="hand-far" data-anchor="shoulder-far" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M117 220 L99 213 C97 219 93 230 97 237 C102 246 112 242 115 234Z" stroke="none"/>
+    <path d="M117 220 L115 234 C112 242 102 246 97 237 C93 230 97 219 99 213" fill="none"/>
+  </g>
+  <g data-plane="legs" data-anchor="hips" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <g data-color="skin" fill="#e6b18a"><path d="M134 222 L133 269 Q121 270 121 282 H151 L158 239 H165 L170 282 H201 Q201 272 188 269 L186 222Z"/></g>
+    <path d="M134 228 Q160 233 186 228 L187 244 H168 L165 239 H158 L157 244 H133.5Z"/>
+  </g>
+  <g data-plane="torso" data-anchor="torso" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M142 159 L149 163 Q160 172 171 163 L178 159 L193 177 L187 228 Q160 235 132 228 L127 177Z"/>
+  </g>
+  <g data-plane="neck" data-anchor="neck" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149 144 V163 Q160 172 171 163 V144"/>
+  </g>
+  <g data-plane="head" data-anchor="head" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="109" cy="110" rx="10" ry="13"/>
+    <ellipse cx="211" cy="110" rx="10" ry="13"/>
+    <path d="M160 60 C190 60 211 78 211 104 C211 128 199 146 178 153 C166 157 154 157 142 153 C121 146 109 128 109 104 C109 78 130 60 160 60Z"/>
+    <g id="eyes" data-color="eyes" fill="#303047" stroke="none"><ellipse cx="140" cy="109" rx="4" ry="5"/><ellipse cx="180" cy="109" rx="4" ry="5"/></g>
+    <path d="M150 130 Q160 139 170 130" fill="none"/>
+  </g>
+  <g data-plane="arm-near" data-anchor="shoulder-near" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M193 163 Q204 161 209 176 L221 213 L203 220 L183 179Z" stroke="none"/>
+    <path d="M203 220 L183 179 L193 163 Q204 161 209 176 L221 213" fill="none"/>
+  </g>
+  <g data-plane="hand-near" data-anchor="shoulder-near" data-color="skin" fill="#e6b18a" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M203 220 L221 213 C223 219 227 230 223 237 C218 246 208 242 205 234Z" stroke="none"/>
+    <path d="M203 220 L205 234 C208 242 218 246 223 237 C227 230 223 219 221 213" fill="none"/>
+  </g>
+</svg>

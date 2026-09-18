@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="640" viewBox="0 0 400 640" data-rig="map-terrain-v1">
+  <defs><clipPath id="canvas"><rect width="400" height="640"/></clipPath></defs>
+  <g data-plane="terrain" data-anchor="root" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#canvas)">
+    <rect width="400" height="640" stroke="none"/>
+    <path d="M-5 -5 H31 V0 C31 72 8 102 23 174 S52 249 30 323 S9 405 28 479 S31 575 31 640 V645 H-5Z M405 -5 H370 V0 C370 77 392 104 375 177 S348 253 372 326 S391 413 373 486 S370 578 370 640 V645 H405Z" fill="#c5cede" stroke="none"/>
+    <path d="M-8 119 Q-11 103 7 100 Q3 76 25 79 Q32 58 49 71 Q64 69 65 88 Q80 101 65 115 Q52 134 36 122 Q13 137 -8 119Z" fill="#e6e8ed"/>
+    <path d="M7 108 Q19 99 31 108 M36 94 Q47 89 56 97" fill="none"/>
+    <path d="M365 280 V215 H352 V201 H405 V215 H394 V280Z M355 280 H410 V293 H355Z" fill="#e8d7b4"/>
+    <path d="M352 201 Q355 179 377 179 Q401 180 405 201Z" fill="#e1bc8b"/>
+    <path d="M375 225 V266 M385 225 V266" fill="none"/>
+    <path d="M-4 450 V391 H-13 V378 H46 V391 H34 V450Z M-10 450 H45 V463 H-10Z" fill="#e8d7b4"/>
+    <path d="M-13 378 Q-6 357 16 357 Q40 357 46 378Z" fill="#e1bc8b"/>
+    <path d="M9 401 V437 M21 401 V437" fill="none"/>
+    <path d="M349 538 Q335 522 351 509 Q347 489 366 486 Q377 466 394 482 Q413 477 420 501 L421 548 Q402 563 384 550 Q365 561 349 538Z" fill="#e6e8ed"/>
+    <path d="M355 523 Q367 514 379 523 M380 500 Q393 491 405 500" fill="none"/>
+    <path d="M26 249 H49 M29 259 H42 M349 360 H372 M355 370 H374 M18 570 H46 M28 580 H51" fill="none"/>
+    <path d="M24 195 Q34 184 47 195 M354 120 Q365 109 378 120" fill="none"/>
+  </g>
+</svg>

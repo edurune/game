@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+  <g data-plane="sleeve-far" data-anchor="shoulder-far" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M133 159 Q117 158 111 174 L99 212 L119 220 L140 180Z"/>
+    <path d="M102 203 L123 211 L119 220 L99 212Z" fill="#d5dfb5"/>
+  </g>
+  <g data-plane="bottom" data-anchor="hips" fill="#d39b84" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M131 214 H189 L198 274 Q160 282 122 274Z"/>
+    <path d="M175 224 L148 275 M135 248 Q131 235 142 235 Q149 246 135 248Z M167 257 Q163 244 174 244 Q181 255 167 257Z M139 270 Q135 257 146 257 Q153 268 139 270Z M180 271 Q176 258 187 258 Q194 269 180 271Z" fill="#f2d99b"/>
+  </g>
+  <g data-plane="shoe-far" data-anchor="foot-far" fill="#747da7" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M129 274 H155 V282 H115 Q117 274 129 274Z"/>
+  </g>
+  <g data-plane="shoe-near" data-anchor="foot-near" fill="#747da7" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M167 274 H192 Q205 274 209 282 H167Z"/>
+  </g>
+  <g data-plane="top-front" data-anchor="torso" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M137 159 Q160 175 183 159 L194 178 L191 220 L199 241 Q179 247 160 234 Q141 247 121 241 L129 220 L126 178Z"/>
+    <path d="M146 164 L159 188 V234 M174 164 L161 188 M127 237 Q134 229 141 236 M179 236 Q186 229 193 237" fill="none"/>
+    <path d="M135 203 Q127 193 137 190 Q145 197 135 203Z M185 203 Q193 193 183 190 Q175 197 185 203Z" fill="#d5dfb5"/>
+    <circle cx="160" cy="195" r="3" fill="#f2d99b"/>
+    <circle cx="160" cy="208" r="3" fill="#f2d99b"/>
+    <circle cx="160" cy="221" r="3" fill="#f2d99b"/>
+  </g>
+  <g data-plane="sleeve-near" data-anchor="shoulder-near" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M187 159 Q203 158 209 174 L221 212 L201 220 L180 180Z"/>
+    <path d="M197 211 L218 203 L221 212 L201 220Z" fill="#d5dfb5"/>
+  </g>
+</svg>

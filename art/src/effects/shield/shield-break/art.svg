@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-effect-v1">
+  <g data-plane="back" data-anchor="root" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M90 73Q111 40 143 37L131 78 103 98ZM184 41Q218 47 239 80L210 76 205 99 190 72Z" fill="#9b9fbc"/>
+  </g>
+  <g data-plane="front" data-anchor="root" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m72 114 28 19-18 24 20 20-19 13Q64 158 72 114ZM246 123Q260 161 241 198L217 181 231 159 219 140ZM103 225l26-12 4 29 23 19-29 5ZM183 250l19-36 23 19-14 32Z" fill="#9b9fbc"/>
+    <path d="M58 94 47 85M260 222 274 234M147 281 144 290" fill="none"/>
+    <path d="m151 119 22 13-19 28 26 20-28 28" fill="none"/>
+  </g>
+</svg>

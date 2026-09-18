@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="equipment-icon-v1"><g data-plane="icon" data-anchor="root" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M104 45Q87 94 149 125M216 45Q233 94 171 125" fill="none"/><ellipse cx="160" cy="124" rx="14" ry="20" fill="#e1bc8b"/><path d="M160 162Q117 119 88 154 55 193 108 235L160 277 212 235Q265 193 232 154 203 119 160 162Z" fill="#e1bc8b"/><path d="M160 183Q125 142 103 164 82 189 120 221L160 254 200 221Q238 189 217 164 195 142 160 183Z" fill="#d39b84"/><path d="M109 184Q106 173 117 171" fill="none"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-enemy-v1">
+  <defs><clipPath id="body-clip"><path d="M126 178 H187 Q179 210 199 247 Q177 265 157 262 Q131 263 111 250 Q130 214 126 178Z"/></clipPath></defs>
+  <g data-plane="rear" data-anchor="root" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M191 218 Q217 220 223 240 Q220 252 211 246 L191 232Z"/>
+    <path d="M136 251 L130 270 Q113 271 115 280 H151 L156 253Z M168 254 L177 280 H211 Q212 271 193 270 L188 249Z"/>
+  </g>
+  <g data-plane="body" data-anchor="root" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g id="body-surface">
+      <g clip-path="url(#body-clip)" stroke="none">
+        <rect width="320" height="320"/>
+        <path d="M177 187 Q171 218 183 249 Q174 255 158 262 Q177 265 199 247 Q179 210 187 187Z" fill="#e1bc8b"/>
+      </g>
+      <path d="M126 178 H187 Q179 210 199 247 Q177 265 157 262 Q131 263 111 250 Q130 214 126 178Z" fill="none"/>
+    </g>
+    <path d="M72 177 Q87 115 145 110 Q202 102 242 168 Q251 188 227 191 Q160 176 94 193 Q67 198 72 177Z" fill="#d39b84"/>
+    <path d="M75 179 Q139 163 236 180 Q238 190 227 191 Q160 176 94 193 Q70 198 72 186Z" fill="#e1bc8b"/>
+    <ellipse cx="110" cy="144" rx="15" ry="11"/>
+    <ellipse cx="163" cy="132" rx="18" ry="12"/>
+    <ellipse cx="211" cy="155" rx="12" ry="9"/>
+    <g id="eyes" fill="#303047" stroke="none"><ellipse cx="133" cy="218" rx="5" ry="7"/><ellipse cx="167" cy="216" rx="5" ry="7"/></g>
+    <path d="M141 239 Q149 231 158 237" fill="none"/>
+  </g>
+  <g data-plane="front" data-anchor="root" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M117 214 Q104 218 93 234 Q91 245 101 246 L120 230"/>
+  </g>
+</svg>

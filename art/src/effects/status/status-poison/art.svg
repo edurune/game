@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-effect-v1">
+  <g data-plane="front" data-anchor="root" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M132 179C104 164 115 125 143 124 174 111 203 134 195 159 193 168 187 174 178 179V197H132Z" fill="#9bb9a2"/>
+    <ellipse cx="139" cy="153" rx="7" ry="8" fill="#303047" stroke="none"/><ellipse cx="171" cy="153" rx="7" ry="8" fill="#303047" stroke="none"/>
+    <path d="M148 197V187M162 197V187M151 172H158" fill="none"/>
+    <circle cx="105" cy="111" r="10" fill="#d5dfb5"/><circle cx="206" cy="100" r="7" fill="#d5dfb5"/><circle cx="223" cy="170" r="9" fill="#9bb9a2"/>
+  </g>
+</svg>

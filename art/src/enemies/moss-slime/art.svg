@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-enemy-v1">
+  <defs><clipPath id="body-clip"><path d="M77 250 C80 230 91 225 92 209 C94 177 113 156 145 159 C181 148 208 166 215 202 C219 225 245 233 247 254 C250 275 229 280 209 280 H111 C87 280 67 271 77 250Z"/></clipPath></defs>
+  <g data-plane="body" data-anchor="root" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <g id="body-surface">
+      <g clip-path="url(#body-clip)" stroke="none">
+        <rect width="320" height="320"/>
+        <path d="M205 209 Q209 241 185 255 Q170 264 134 263 Q99 265 80 258 Q79 277 111 280 H209 Q245 281 247 258 Q245 242 225 230Z" fill="#758d80"/>
+      </g>
+      <path d="M77 250 C80 230 91 225 92 209 C94 177 113 156 145 159 C181 148 208 166 215 202 C219 225 245 233 247 254 C250 275 229 280 209 280 H111 C87 280 67 271 77 250Z" fill="none"/>
+    </g>
+    <path d="M106 190 Q114 176 130 177" fill="none"/>
+    <g id="eyes" fill="#303047" stroke="none"><ellipse cx="113" cy="220" rx="5" ry="7"/><ellipse cx="151" cy="218" rx="5" ry="7"/></g>
+    <path d="M123 241 Q132 235 142 241" fill="none"/>
+    <path d="M141 159 Q121 148 127 133 Q149 130 153 154 Q158 136 177 138 Q180 154 157 162" fill="#d5dfb5"/>
+  </g>
+</svg>

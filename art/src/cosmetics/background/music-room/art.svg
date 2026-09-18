@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<defs><clipPath id="frame"><rect x="20" y="20" width="280" height="280"/></clipPath></defs>
+<g data-plane="background" data-anchor="root" data-fit="scene" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#frame)">
+<rect x="20" y="20" width="280" height="280" stroke="none"/><path d="M18 249 H302 V302 H18Z" fill="#e1bc8b"/>
+<path d="M27 142 H108 V241 H27Z" fill="#bd8b69"/><path d="M31 184 H105 V203 H31Z"/><path d="M39 203 V191 M49 203 V191 M60 203 V191 M71 203 V191 M82 203 V191 M93 203 V191 M34 241 V252 M100 241 V252" fill="none"/>
+<path d="M249 155 Q224 159 237 181 Q215 194 226 222 Q250 252 275 222 Q288 195 266 181 Q279 159 256 155Z" fill="#e1bc8b"/><path d="M247 157 V105 H258 V157Z" fill="#bd8b69"/><rect x="243" y="89" width="19" height="21" rx="4" fill="#bd8b69"/><circle cx="251" cy="190" r="10" fill="#758d80"/><path d="M240 218 H262 M252 110 V217" fill="none"/>
+<path d="M51 91 V57 L79 49 V80" fill="none"/><ellipse cx="45" cy="91" rx="8" ry="5" fill="#747da7"/><ellipse cx="73" cy="80" rx="8" ry="5" fill="#747da7"/>
+</g></g></svg>

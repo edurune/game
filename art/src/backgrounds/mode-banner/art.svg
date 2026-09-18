@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" data-rig="battle-scene-v1">
+  <defs><clipPath id="canvas"><path d="M0 0H960V540H0Z"/></clipPath></defs>
+  <g clip-path="url(#canvas)" stroke="#303047" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g data-plane="backdrop" data-anchor="root" stroke="none">
+      <path d="M0 0H960V540H0Z" fill="#f4eddc"/>
+      <path d="M0 350Q93 278 198 340Q270 284 358 351Q454 321 539 347Q650 277 738 327Q856 273 960 339V540H0Z" fill="#d5dfb5"/>
+      <path d="M0 412Q165 336 315 411Q474 352 630 407Q813 348 960 386V540H0Z" fill="#9bb9a2"/>
+      <path d="M0 465Q194 426 342 461Q516 403 660 455Q833 415 960 446V540H0Z" fill="#758d80"/>
+      <path d="M480 372Q569 413 526 444Q501 464 366 482L285 540H685L644 496Q593 474 619 453Q654 407 480 372Z" fill="#e1bc8b"/>
+      <path d="M198 87Q209 66 231 73Q240 47 268 58Q292 49 305 74Q328 73 335 90Z M602 126Q614 106 638 116Q651 87 679 105Q704 100 714 124Z" fill="#fffefb"/>
+    </g>
+    <g data-plane="terrain" data-anchor="root">
+      <!-- Weathered gateposts frame the title's clear central sky. -->
+      <path d="M-26 74L84 92L101 423L-15 446Z" fill="#9b9fbc"/>
+      <path d="M84 92L112 111L130 409L101 423Z" fill="#747da7"/>
+      <path d="M-25 76L79 88L114 107L11 94Z" fill="#c5cede"/>
+      <path d="M-9 218L94 226L97 247L-9 241Z M-15 405L100 390L131 410L11 427Z" fill="#c5cede"/>
+      <path d="M11 427L131 410L132 431L10 449Z" fill="#9b9fbc"/>
+      <path d="M17 146L58 152 M51 151L54 176 M-2 316L39 315 M60 359L85 356 M90 285L112 292" fill="none"/>
+      <g transform="translate(-50 0)">
+      <path d="M103 137L230 148" fill="none" stroke-width="7"/>
+      <path d="M127 140L211 147L211 240L173 265L127 234Z" fill="#f2d99b"/>
+      <path d="M136 143V225L173 248L202 230V148" fill="none" stroke="#bd8b69"/>
+      <path d="M173 170L183 191L173 214L163 191Z" fill="#f4eddc"/>
+      </g>
+      <path d="M831 413L845 125Q793 124 771 158L750 149L755 124Q784 92 831 92L863 102L895 88L921 102L929 398Z" fill="#c5cede"/>
+      <path d="M895 111L921 102L929 398L902 413Z" fill="#9b9fbc"/>
+      <path d="M845 125L868 133L856 415L831 413Z" fill="#9b9fbc"/>
+      <path d="M842 218L899 214L913 226L858 233Z M832 392L902 385L936 401L862 414Z" fill="#f4eddc"/>
+      <path d="M858 233L913 226V243L857 251Z M862 414L936 401L938 422L861 436Z" fill="#9b9fbc"/>
+      <path d="M773 128L793 146 M815 100L820 124 M858 103L861 130 M866 296L898 292 M878 292L877 313" fill="none"/>
+      <path d="M926 163L953 169L960 309L929 305Z" fill="#747da7"/>
+      <path d="M959 160L924 154" fill="none" stroke-width="7"/>
+      <path d="M33 410Q52 365 54 311 M51 366Q26 364 22 344Q46 340 51 366Z M53 342Q73 336 78 317Q57 311 53 342Z" fill="#9bb9a2"/>
+      <path d="M873 410Q895 378 910 339 M892 382Q909 388 924 369Q911 354 892 382Z M904 355Q884 351 886 331Q907 331 904 355Z" fill="#9bb9a2"/>
+    </g>
+    <g data-plane="foreground" data-anchor="root">
+      <path d="M13 477L40 457L65 474L61 492L22 495Z M785 459L810 447L831 461L830 478L798 482Z" fill="#c5cede"/>
+      <path d="M304 407L316 394L332 400 M706 452L716 436L726 450" fill="none" stroke="#515b4f"/>
+      <path d="M428 515L472 502L510 508 M606 470L621 463" fill="none" stroke="#bd8b69"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="battle-enemy-v1">
+<defs><clipPath id="body-clip"><path d="M83 191 Q92 128 143 121 Q200 110 225 176 L231 195 Q216 217 192 204 Q174 220 153 207 Q127 219 112 204 Q92 212 83 191Z"/></clipPath></defs>
+<g data-plane="rear" data-anchor="root" fill="none" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g id="tentacles"><path d="M119 202 Q97 229 119 245 Q130 255 116 268 M147 207 Q159 229 143 246 Q133 259 146 277 M176 207 Q164 230 184 246 Q197 256 185 270 M201 199 Q225 226 207 247"/></g></g>
+<g data-plane="body" data-anchor="root" fill="#9b9fbc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <g id="body-surface">
+    <g clip-path="url(#body-clip)" stroke="none">
+      <rect width="320" height="320"/>
+      <path d="M182 129 Q212 157 208 191 Q217 197 230 195 Q215 132 182 129Z" fill="#747da7"/>
+    </g>
+    <path d="M83 191 Q92 128 143 121 Q200 110 225 176 L231 195 Q216 217 192 204 Q174 220 153 207 Q127 219 112 204 Q92 212 83 191Z" fill="none"/>
+  </g>
+  <path d="M103 162 Q117 140 137 139" fill="none"/>
+  <g id="eyes" fill="#303047" stroke="none"><ellipse cx="121" cy="181" rx="5" ry="7"/><ellipse cx="156" cy="178" rx="5" ry="7"/></g>
+  <path d="M132 198 Q139 193 146 197" fill="none"/>
+  <path d="M170 145 L177 136 L184 145 L177 154Z" fill="#f2d99b"/>
+</g></svg>

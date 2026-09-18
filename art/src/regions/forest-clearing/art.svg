@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" data-rig="battle-scene-v1">
+  <defs><clipPath id="canvas"><rect width="960" height="540"/></clipPath></defs>
+  <g data-plane="backdrop" data-anchor="root" fill="#e4e8d4" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#canvas)">
+    <rect width="960" height="540" fill="#f4eddc" stroke="none"/>
+    <path d="M-10 102 Q58 52 124 98 Q198 64 245 121 Q319 71 366 122 Q443 80 503 137 Q569 90 629 123 Q714 77 773 110 Q855 63 973 105 V386 H-10Z" stroke="none"/>
+    <path d="M87 102 L77 345 H117 L111 103 M302 132 L288 345 H321 L328 132 M651 122 L637 345 H670 L676 122 M854 111 L844 345 H881 L878 111" fill="#c4d1ba" stroke="none"/>
+    <path d="M-8 284 Q135 233 281 290 Q447 233 608 285 Q788 239 970 277 V407 H-8Z" fill="#c4d1ba" stroke="none"/>
+    <path d="M-21 341 Q46 302 137 327 Q229 300 317 337 Q416 314 506 338 Q618 309 714 334 Q837 295 978 334 V420 H-21Z" fill="#9bb9a2" stroke="none"/>
+    <path d="M25 49 Q37 182 14 335 L-8 371 L55 381 Q66 358 78 347 Q57 208 89 70Z M888 70 Q903 206 882 348 L904 377 L970 366 L947 335 Q927 194 947 44Z" fill="#bd8b69"/>
+    <path d="M36 110 L48 154 L42 231 M49 297 L39 347 M920 116 L914 193 L924 245 M912 296 L921 349" fill="none"/>
+    <path d="M-22 -5 H299 Q306 34 278 50 Q273 76 239 69 Q220 94 190 77 Q176 105 147 88 Q126 111 98 91 Q69 107 55 86 Q17 107 -22 81Z M658 -10 H980 V87 Q945 113 919 88 Q890 108 865 87 Q840 107 817 83 Q790 100 767 78 Q735 92 720 67 Q685 78 679 51 Q652 44 658 -10Z" fill="#9bb9a2"/>
+    <path d="M26 41 Q53 57 80 39 M141 35 Q166 53 187 39 M789 35 Q818 53 843 40 M903 46 Q925 60 947 43" fill="none"/>
+  </g>
+  <g data-plane="terrain" data-anchor="root" fill="#d5dfb5" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#canvas)">
+    <path d="M-8 365 Q140 341 304 360 Q462 341 620 365 Q790 344 970 363 V548 H-8Z" stroke="none"/>
+    <path d="M38 430 Q137 380 313 398 Q460 373 619 397 Q794 383 922 432 Q948 467 873 482 Q671 510 487 491 Q287 520 109 490 Q13 481 38 430Z" fill="#e8d7b4" stroke="none"/>
+    <path d="M79 372 Q85 361 98 366 L105 376Z M832 374 Q843 360 855 368 L864 379Z" fill="#c4d1ba"/>
+  </g>
+  <g data-plane="foreground" data-anchor="root" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" clip-path="url(#canvas)">
+    <path d="M-6 506 Q20 481 43 503 Q66 483 89 505 Q116 494 132 521 L157 548 H-6Z M803 548 L826 521 Q842 497 868 507 Q891 483 912 503 Q941 482 968 506 V548Z"/>
+    <path d="M32 511 L22 489 M57 514 L65 493 M884 515 L880 492 M928 513 L938 493" fill="none"/>
+    <path d="M167 531 Q175 518 190 525 L196 536Z M733 534 Q746 518 761 531 L765 539Z" fill="#c4d1ba"/>
+  </g>
+</svg>

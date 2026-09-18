@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<defs><clipPath id="frame"><rect x="20" y="20" width="280" height="280"/></clipPath></defs>
+<g data-plane="background" data-anchor="root" data-fit="scene" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#frame)">
+<rect x="20" y="20" width="280" height="280" fill="#747da7" stroke="none"/><path d="M18 241 H302 V302 H18Z" fill="#e1bc8b"/><path d="M18 40 Q160 81 302 40 M18 108 Q160 133 302 108" fill="none"/>
+<path d="M63 52 V68 M257 52 V68 M45 112 V142 M276 113 V143" fill="none"/><rect x="48" y="68" width="31" height="39" rx="12" fill="#f2d99b"/><rect x="241" y="68" width="31" height="39" rx="12" fill="#d39b84"/><rect x="31" y="142" width="29" height="40" rx="12" fill="#d39b84"/><rect x="261" y="143" width="29" height="40" rx="12" fill="#f2d99b"/>
+<path d="M49 77 H78 M49 98 H78 M242 77 H271 M242 98 H271 M32 151 H59 M32 174 H59 M262 152 H289 M262 175 H289 M64 107 V119 M257 107 V119 M45 182 V194 M276 183 V195" fill="none"/>
+<path d="M23 226 H95 V242 H23Z M224 226 H297 V242 H224Z" fill="#758d80"/><path d="M21 269 H299 M88 241 L76 302 M232 241 L244 302" fill="none"/>
+</g></g></svg>

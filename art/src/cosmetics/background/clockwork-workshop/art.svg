@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<defs><clipPath id="frame"><rect x="20" y="20" width="280" height="280"/></clipPath></defs>
+<g data-plane="background" data-anchor="root" data-fit="scene" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><g clip-path="url(#frame)">
+<rect x="20" y="20" width="280" height="280" stroke="none"/><path d="M18 248 H302 V302 H18Z" fill="#e1bc8b"/><circle cx="252" cy="94" r="34" fill="#bd8b69"/><circle cx="252" cy="94" r="26" fill="#f2d99b"/><path d="M252 75 V94 L267 103 M252 115 V119 M231 94 H227 M273 94 H277" fill="none"/>
+<path d="M34 70 H96 V146 H34Z" fill="#9bb9a2"/><path d="M47 85 H82 V94 H69 V132 H58 V94 H47Z" fill="#bd8b69"/>
+<path d="M27 191 H108 V203 H27Z M34 203 H100 V246 H34Z M223 201 H291 V213 H223Z M230 213 H240 V249 H230Z M275 213 H285 V249 H275Z" fill="#bd8b69"/><path d="M35 220 H99 M59 211 H75 M59 234 H75" fill="none"/>
+<path d="M232 199 V175 H245 V199 M253 199 V162 H267 V199 M278 200 V178" fill="#f2d99b"/><path d="M44 181 H74 V190 H44Z M57 158 V179 M48 158 H78 V166 H48Z" fill="#9b9fbc"/>
+</g></g></svg>

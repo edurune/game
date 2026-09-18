@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" data-rig="battle-scene-v1">
+  <defs>
+    <clipPath id="canvas"><path d="M0 0H960V540H0Z"/></clipPath>
+    <symbol id="rockling" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M105 207L78 214L67 248L86 259L116 235 M202 208L227 216L241 250L222 261L196 236 M130 255L117 280H149L155 254 M177 254L183 280H218L203 252Z" fill="#758d80"/>
+        <path d="M107 157L149 140L194 155L217 199L203 249L166 266L118 248L98 205Z" fill="#9bb9a2"/>
+        <path d="M107 157L147 180L194 155 M147 180L138 224L166 266 M138 224L98 205" fill="none"/>
+        <g fill="#303047" stroke="none"><ellipse cx="125" cy="199" rx="5" ry="7"/><ellipse cx="167" cy="201" rx="5" ry="7"/></g>
+        <path d="M134 226H155 M136 151L139 132L158 139L168 127L180 151" fill="#d5dfb5"/>
+      </g>
+    </symbol>
+    <symbol id="cave-bat" viewBox="0 0 320 320">
+      <g stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <g fill="#747da7"><path d="M177 182Q234 120 280 146L271 197Q247 177 234 208Q218 196 202 223L175 218Z M141 181Q84 118 39 146L48 197Q71 177 85 208Q101 196 117 223L146 218Z"/><path d="M46 147Q106 165 136 200" fill="none"/></g>
+        <g fill="#9b9fbc"><path d="M116 178L105 130L137 150Q151 143 166 150L198 128L185 177Q205 208 188 236Q167 252 141 242Q109 232 116 178Z"/>
+          <path d="M132 232L123 257L147 248 M170 244L188 258L182 234" fill="#747da7"/>
+          <g fill="#303047" stroke="none"><ellipse cx="133" cy="191" rx="5" ry="7"/><ellipse cx="165" cy="189" rx="5" ry="7"/></g>
+          <path d="M138 216L144 226L150 217L157 225L162 213" fill="#f4eddc"/>
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <g clip-path="url(#canvas)" stroke="#303047" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <g data-plane="backdrop" data-anchor="root">
+      <path d="M0 0H960V540H0Z" fill="#303047" stroke="none"/>
+      <!-- Narrow upper walls flare toward the viewer at the bottom of the frame. -->
+      <g stroke="none">
+        <path d="M337-25L531 22L512 250L286 193Z" fill="#3f465f"/>
+        <path d="M531 22L647-21L683 188L512 250Z" fill="#515b7c"/>
+        <path d="M351 149L360 68Q364 35 389 42Q415 49 412 83L406 164Z M444 175L450 93Q453 59 477 65Q500 71 499 107L496 188Z M552 187L551 105Q551 71 577 62Q604 53 609 87L619 163Z" fill="#303047"/>
+        <path d="M284 192L511 249L684 187L687 205L512 268L281 210Z" fill="#747da7"/>
+        <path d="M281 210L512 268L582 302L354 245Z" fill="#3f465f"/>
+        <path d="M655-22L729 0L757 146L671 120Z" fill="#515b7c"/>
+      </g>
+      <!-- A distant switchback crosses behind the towers and the middle bridge. -->
+      <g stroke-width="2.5">
+        <path d="M505 193L626 160L662 180L541 215Z" fill="#9b9fbc"/>
+        <path d="M505 193L541 215V227L502 205Z M541 215L662 180V194L541 227Z" fill="#747da7"/>
+        <path d="M541 227L662 194L680 211L562 246Z" fill="#3f465f"/>
+        <path d="M370 42L414 32L463 48L421 62Z" fill="#9b9fbc"/>
+        <path d="M370 42L421 62V75L367 54Z M421 62L463 48V61L421 75Z" fill="#747da7"/>
+        <path d="M421 62L453 70L568 205V223L523 209L421 80Z" fill="#515b7c"/>
+        <g fill="#747da7">
+          <path d="M433 69L465 77V85L433 77Z"/>
+          <path d="M447 85L480 94V103L447 94Z"/>
+          <path d="M463 103L498 113V123L463 113Z"/>
+          <path d="M481 124L518 135V146L481 135Z"/>
+          <path d="M501 148L541 160V173L501 161Z"/>
+          <path d="M523 176L568 190V205L523 191Z"/>
+        </g>
+        <g fill="#9b9fbc">
+          <path d="M421 62L453 70L465 77L433 69Z"/>
+          <path d="M433 77L465 85L480 94L447 85Z"/>
+          <path d="M447 94L480 103L498 113L463 103Z"/>
+          <path d="M463 113L498 123L518 135L481 124Z"/>
+          <path d="M481 135L518 146L541 160L501 148Z"/>
+          <path d="M501 161L541 173L568 190L523 176Z"/>
+        </g>
+        <path d="M610 187L620 184L624 189L614 192Z" fill="#f2d99b" stroke="none"/>
+      </g>
+      <g fill="#9b9fbc" stroke="none">
+        <path d="M362 103L366 96L370 103L366 110Z M521 351L525 344L529 351L525 358Z M612 129L616 122L620 129L616 136Z"/>
+        <circle cx="469" cy="306" r="2"/><circle cx="572" cy="76" r="2"/><circle cx="123" cy="450" r="2"/>
+      </g>
+    </g>
+    <g data-plane="terrain" data-anchor="root">
+      <!-- Left tower and its high landing. There is no visible floor below. -->
+      <path d="M119-28L313-3L267 441L-43 563Z" fill="#747da7"/>
+      <path d="M313-3L363 27L334 477L267 441Z" fill="#515b7c"/>
+      <path d="M69 421L105 195Q115 137 156 126Q201 115 194 175L173 387Z" fill="#303047"/>
+      <path d="M105 195Q115 137 156 126Q201 115 194 175" fill="none" stroke="#9b9fbc" stroke-width="18"/>
+      <path d="M111 163L97 155 M141 139L135 122 M175 134L181 116 M193 153L208 147" fill="none"/>
+      <path d="M99 21L290 46L287 67L91 41Z" fill="#9b9fbc"/>
+      <path d="M77 101L121 108 M203 241L256 220 M226 231L223 257 M43 323L94 305 M157 37L153 61 M206 99L264 107" fill="none"/>
+      <path d="M61 225L293 179L328 195L92 245Z" fill="#c5cede"/>
+      <path d="M61 225L92 245L87 267L55 246Z M92 245L328 195V216L87 267Z" fill="#9b9fbc"/>
+      <path d="M87 267L328 216L366 250L121 305Z" fill="#515b7c"/>
+      <path d="M127 251L141 248L147 257L133 261Z M179 240L193 237L199 246L185 250Z" fill="#f2d99b" stroke="none"/>
+      <path d="M348 371L586 310L617 336L377 400Z" fill="#c5cede"/>
+      <path d="M348 371L377 400V421L344 399Z M377 400L617 336V357L377 421Z" fill="#9b9fbc"/>
+      <path d="M377 421L617 357L657 395L416 465Z" fill="#515b7c"/>
+      <!-- A far flight turns right from the left landing onto a separate bridge. -->
+      <path d="M301 208L249 225L384 369L436 352V368L384 386L249 242Z" fill="#515b7c"/>
+      <g fill="#9b9fbc">
+        <path d="M301 208L249 225L269 233V244L321 227V216Z"/>
+        <path d="M321 227L269 244L290 253V265L342 248V236Z"/>
+        <path d="M342 248L290 265L312 275V288L364 271V258Z"/>
+        <path d="M364 271L312 288L335 299V313L387 296V282Z"/>
+        <path d="M387 296L335 313L359 325V340L411 323V308Z"/>
+        <path d="M411 323L359 340L384 353V369L436 352V336Z"/>
+      </g>
+      <g fill="#c5cede">
+        <path d="M301 208L249 225L269 233L321 216Z"/>
+        <path d="M321 227L269 244L290 253L342 236Z"/>
+        <path d="M342 248L290 265L312 275L364 258Z"/>
+        <path d="M364 271L312 288L335 299L387 282Z"/>
+        <path d="M387 296L335 313L359 325L411 308Z"/>
+        <path d="M411 323L359 340L384 353L436 336Z"/>
+      </g>
+      <!-- The doorway looms above; its jambs converge upward. -->
+      <path d="M751-32L934-17L1031 540L698 466Z" fill="#747da7"/>
+      <path d="M751-32L705-6L644 437L698 466Z" fill="#515b7c"/>
+      <path d="M770 218L790 91Q801 9 863 20Q927 31 939 108L958 252L926 245L910 111Q902 61 864 52Q827 42 820 99L802 225Z" fill="#c5cede"/>
+      <path d="M802 225L820 99Q827 42 864 52Q902 61 910 111L926 245Z" fill="#f2d99b"/>
+      <path d="M789 112L816 119 M799 69L825 83 M822 30L836 57 M860 20L862 51 M901 35L887 63 M929 74L905 87 M940 125L913 132 M777 176L808 184 M920 192L950 198" fill="none"/>
+      <path d="M916 103L942 77L966 235L933 245Z" fill="#bd8b69"/>
+      <path d="M926 110L936 100L956 228L941 233Z" fill="#e1bc8b"/>
+      <path d="M944 168L947 179" fill="none"/>
+      <path d="M788 221L934 246L934 258L785 232Z" fill="#f4eddc"/>
+      <path d="M748 51L775 56 M728 172L767 180 M744 91L741 113 M956 292L984 300 M935 333L975 345 M716 393L745 401" fill="none"/>
+      <!-- A thin lip and broad dark soffit put the viewer below the landing. -->
+      <path d="M699 211L958 254L983 267L722 224Z" fill="#c5cede"/>
+      <path d="M699 211L722 224L720 243L694 229Z M722 224L983 267L985 289L720 243Z" fill="#9b9fbc"/>
+      <path d="M720 243L985 289L1020 337L750 291Z" fill="#515b7c"/>
+      <path d="M850 253L864 255L869 264L855 262Z M903 262L917 264L922 273L908 271Z" fill="#f2d99b" stroke="none"/>
+      <path d="M778 540L799 396Q808 329 851 339Q898 350 908 419L928 540Z" fill="#303047"/>
+      <path d="M799 396Q808 329 851 339Q898 350 908 419" fill="none" stroke="#9b9fbc" stroke-width="17"/>
+      <path d="M805 369L790 361 M832 345L829 328 M868 350L875 335 M894 382L911 378" fill="none"/>
+      <!-- One continuous flight. Every tread meets its riser; steps widen toward the low camera. -->
+      <path d="M700 212L812 236L639 605L434 570L416 616L682 242Z" fill="#515b7c"/>
+      <g fill="#9b9fbc">
+        <path d="M690 222L805 247L804 257L688 232Z"/>
+        <path d="M675 245L795 271L793 283L672 257Z"/>
+        <path d="M655 273L782 300L779 315L651 288Z"/>
+        <path d="M629 307L765 335L761 353L624 325Z"/>
+        <path d="M596 348L744 377L739 399L590 370Z"/>
+        <path d="M556 397L718 428L712 455L548 424Z"/>
+        <path d="M506 457L687 490L679 523L496 490Z"/>
+        <path d="M446 530L649 565L639 605L434 570Z"/>
+      </g>
+      <g fill="#c5cede">
+        <path d="M700 212L812 236L805 247L690 222Z"/>
+        <path d="M688 232L804 257L795 271L675 245Z"/>
+        <path d="M672 257L793 283L782 300L655 273Z"/>
+        <path d="M651 288L779 315L765 335L629 307Z"/>
+        <path d="M624 325L761 353L744 377L596 348Z"/>
+        <path d="M590 370L739 399L718 428L556 397Z"/>
+        <path d="M548 424L712 455L687 490L506 457Z"/>
+        <path d="M496 490L679 523L649 565L446 530Z"/>
+      </g>
+    </g>
+    <g data-plane="foreground" data-anchor="root">
+      <use href="#rockling" x="177" y="70" width="160" height="160"/>
+      <use href="#cave-bat" x="404" y="-14" width="175" height="175" transform="rotate(-9 491 91)"/>
+      <!-- A plain tunic and one torch keep the arriving traveler's silhouette clear. -->
+      <g transform="translate(222 55) scale(.72)" stroke-width="4">
+        <path d="M804 178L791 211L767 227Q761 234 770 238L791 232L818 200L828 212L825 226L848 230Q857 227 850 221L844 205L840 180Z" fill="#e1bc8b"/>
+        <path d="M767 223L785 221L791 230L773 241L757 237Q755 230 767 223Z M828 220L842 222Q857 222 855 231L840 234L824 228Z" fill="#f4eddc"/>
+        <path d="M786 133Q770 139 765 153L749 171Q746 181 755 183L775 169L798 144" fill="#bd8b69"/>
+        <path d="M800 120L783 131L776 148L791 158L790 183L828 198L850 184L847 141L827 128Z" fill="#9bb9a2"/>
+        <path d="M795 177L831 190L847 180" fill="none"/>
+        <path d="M804 113L798 132L815 142L830 128L825 111Z" fill="#bd8b69"/>
+        <path d="M790 77Q780 84 784 101L774 114L784 119Q790 136 809 135Q830 134 841 115L848 99L836 73Z" fill="#bd8b69"/>
+        <path d="M785 94L776 76L781 61L781 52L796 53L802 42L817 49L834 44L842 56L855 60L860 78L852 100L842 113L829 108L819 96L806 99L793 92Z" fill="#514543"/>
+        <path d="M790 73L800 68 M814 62L824 61 M783 106L792 111" fill="none"/>
+        <ellipse cx="787" cy="118" rx="3" ry="4" fill="#303047" stroke="none"/>
+        <path d="M795 128L802 130 M833 106Q846 102 846 111Q846 117 839 118" fill="none"/>
+        <path d="M796 128L812 138L833 126L839 133L820 150L796 142Z" fill="#f2d99b"/>
+        <path d="M837 141L849 143L861 163L874 160Q884 163 879 172L861 180Q854 181 849 171L832 154" fill="#bd8b69"/>
+        <path d="M833 137L846 140L855 151L840 161L829 150Z" fill="#9bb9a2"/>
+        <path d="M750 172Q739 169 738 177Q735 184 745 188L759 182L759 175Z" fill="#bd8b69"/>
+        <path d="M742 169V152" fill="none" stroke-width="6"/>
+        <path d="M731 141Q723 127 739 111Q736 123 748 123Q759 137 748 147Z" fill="#f2d99b"/>
+        <path d="M732 147H752L748 158H736Z" fill="#bd8b69"/>
+      </g>
+      <!-- Near architecture is much larger and cropped, emphasizing the upward view. -->
+      <path d="M-47 170L54 184L43 226L-65 211Z" fill="#c5cede"/>
+      <path d="M-22 219L27 226L-4 540H-76Z" fill="#9b9fbc"/>
+      <path d="M6 228L-29 540" fill="none"/>
+      <path d="M-44 481L313 393L352 417L-9 512Z" fill="#c5cede"/>
+      <path d="M-9 512L352 417L350 448L-17 547Z" fill="#9b9fbc"/>
+      <path d="M38 508L56 503L62 515L43 520Z M106 490L124 485L130 497L111 502Z M174 472L192 467L198 479L179 484Z" fill="#f2d99b" stroke="none"/>
+      <!-- A closer flight passes in front of the lower walkway and joins the middle bridge. -->
+      <path d="M284 395L348 371L377 400L313 426Z" fill="#c5cede"/>
+      <path d="M284 395L313 426V440L281 409Z M313 426L377 400V414L313 440Z" fill="#9b9fbc"/>
+      <path d="M287 403L340 425L308 571L152 612L128 586Z" fill="#515b7c"/>
+      <g fill="#9b9fbc">
+        <path d="M266 414L329 440V452L266 426Z"/>
+        <path d="M242 439L320 470V485L242 454Z"/>
+        <path d="M214 470L314 505V524L214 489Z"/>
+        <path d="M180 509L308 548V571L180 532Z"/>
+      </g>
+      <g fill="#c5cede">
+        <path d="M287 403L340 425L329 440L266 414Z"/>
+        <path d="M266 426L329 452L320 470L242 439Z"/>
+        <path d="M242 454L320 485L314 505L214 470Z"/>
+        <path d="M214 489L314 524L308 548L180 509Z"/>
+        <path d="M180 532L308 571L302 601L138 556Z"/>
+      </g>
+      <path d="M839 540L837 478L883 488L895 540Z" fill="#747da7"/>
+      <path d="M809 459L989 499L998 515L813 474Z" fill="#c5cede"/>
+      <path d="M813 474L998 515L1003 540L815 496Z" fill="#9b9fbc"/>
+    </g>
+  </g>
+</svg>

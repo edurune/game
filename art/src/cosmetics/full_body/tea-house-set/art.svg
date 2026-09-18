@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<g data-plane="sleeve-far" data-anchor="shoulder-far" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M132 159 Q114 157 108 174 L96 203 L121 215 L141 180Z"/><path d="M100 195 L126 207" fill="none"/></g>
+<g data-plane="bottom" data-anchor="hips" fill="#f4eddc" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M129 215 H191 L200 274 H167 L163 239 H159 L155 274 H122Z"/><path d="M138 242 L135 266 M183 242 L188 266" fill="none"/></g>
+<g data-plane="shoe-far" data-anchor="foot-far" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M129 270 H155 V282 H115 Q115 271 129 270Z"/></g>
+<g data-plane="shoe-near" data-anchor="foot-near" fill="#bd8b69" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M167 270 H194 Q207 270 208 282 H167Z"/></g>
+<g data-plane="top-front" data-anchor="torso" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M136 159 L160 173 L184 159 L196 179 L199 239 Q160 249 121 239 L124 179Z"/><path d="M141 163 L175 200 L148 229 M179 163 L150 192" fill="none"/><path d="M128 217 H192 L194 229 H126Z" fill="#d39b84"/><path d="M175 223 L185 217 L190 231Z M176 224 L171 244 L181 241Z" fill="#d39b84"/></g>
+<g data-plane="sleeve-near" data-anchor="shoulder-near" fill="#9bb9a2" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M188 159 Q206 157 212 174 L224 203 L199 215 L179 180Z"/><path d="M194 207 L220 195" fill="none"/></g>
+</svg>

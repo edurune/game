@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" data-rig="round-traveler-v1">
+<g data-plane="sleeve-far" data-anchor="shoulder-far" fill="#d39b84" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M132 159 Q116 158 110 174 L104 190 L126 200 L140 180Z"/></g>
+<g data-plane="top-front" data-anchor="torso" fill="#d39b84" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M138 159 L160 180 L182 159 L193 177 L191 234 H129 L127 177Z"/><path d="M137 164 L160 186 L183 164 M133 226 H187" fill="none"/></g>
+<g data-plane="sleeve-near" data-anchor="shoulder-near" fill="#d39b84" stroke="#303047" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M188 159 Q204 158 210 174 L216 190 L194 200 L180 180Z"/></g></svg>
