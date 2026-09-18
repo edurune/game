@@ -20,7 +20,11 @@ import { defaultOutfit } from "@edurune/art/catalog";
 />;
 <RegionScene regionId="forest-clearing" style={{ width: "100%" }} />;
 <img src={terrainUrls["forest-clearing"]} alt="" />;
-<audio src={encounterMusicUrls["forest-clearing"].normal} preload="none" loop />;
+<audio
+  src={encounterMusicUrls["forest-clearing"].normal}
+  preload="none"
+  loop
+/>;
 ```
 
 Components accept standard div attributes, inline styles, and an optional accessible `label`. Portraits and battles take motion props, pause when hidden or offscreen, and respect reduced motion.
@@ -41,10 +45,8 @@ Follow the repository's [art style rules](https://github.com/edurune/game/blob/m
 
 ## Licensing
 
-Copyright © 2026 Setten Company Limited. This package uses file-based licensing:
+This repository uses file-based licensing:
 
 - All files except the media files described below are licensed under the [Apache License 2.0](LICENSE).
 - `.svg`, `.mp3`, `.png`, and `.ico` files are licensed under [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA-4.0).
-- Exception: no license is granted for the `.svg`, `.png`, and `.ico` files in [src/brand/](src/brand/); all rights are reserved. TypeScript and other non-media files there remain under Apache-2.0.
-
-No trademark rights in the EduRune name or marks are granted.
+- Exception: no license is granted for the `.svg`, `.png`, and `.ico` files in [art/src/brand/](art/src/brand/); all rights are reserved. TypeScript and other non-media files there remain under Apache-2.0.

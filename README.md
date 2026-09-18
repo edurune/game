@@ -24,19 +24,16 @@ Write optional `name`, `title`, and `description` fields with Lingui `msg` tagge
 
 ```sh
 bun run i18n:extract
-# Translate the Vietnamese catalog before compiling.
 bun run i18n:compile
 ```
 
 ## Licensing
 
-Copyright © 2026 Setten Company Limited. This repository uses file-based licensing:
+This repository uses file-based licensing:
 
 - All files except the media files described below are licensed under the [Apache License 2.0](LICENSE).
 - `.svg`, `.mp3`, `.png`, and `.ico` files are licensed under [CC BY-NC-SA 4.0](LICENSE-CC-BY-NC-SA-4.0).
 - Exception: no license is granted for the `.svg`, `.png`, and `.ico` files in [art/src/brand/](art/src/brand/); all rights are reserved. TypeScript and other non-media files there remain under Apache-2.0.
-
-No trademark rights in the EduRune name or marks are granted.
 
 ## Contributing
 
