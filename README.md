@@ -1,9 +1,8 @@
-# EduRune Game
+![EduRune](https://raw.githubusercontent.com/edurune/game/refs/heads/main/art/exports/social-card-1200x630.png)
 
-Game assets, data files, and tools for the EduRune game.
+EduRune is a learning game with courses, lesson maps, and turn-based battles. Learners answer questions to fight enemies and earn XP, coins, gear, and cosmetics.
 
-- [art](art/) (`@edurune/art`): artwork, music, typed metadata, translations, and React renderers.
-- [artroom](artroom/): a Vite app for inspecting assets.
+## Development
 
 ```sh
 bun install
@@ -20,7 +19,7 @@ See [DESIGN.md](DESIGN.md) for art style rules and [art/README.md](art/README.md
 
 ## Translation
 
-Write optional `name`, `title`, and `description` fields with Lingui `msg` tagged templates in `metadata.ts`. Shared vocabulary lives in `labels.ts`.
+Help translating by updating [.po files](./art/src/locales).
 
 ```sh
 bun run i18n:extract
