@@ -1,5 +1,6 @@
 {
   "name": "@edurune/art",
+  "private": true,
   "version": "0.1.0",
   "description": "EduRune artwork, music, metadata, translations, and React renderers.",
   "homepage": "https://github.com/edurune/game/tree/main/art#readme",
